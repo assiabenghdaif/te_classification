@@ -1,0 +1,774 @@
+> Tir 1 : cagtaaaacctctataaattaataatgtca | Tir 2 : aggatttattaatttatcgataaattaata | Mutations : [1, 3, 7, 8, 9, 10, 13, 26, 27, 28, 30] | Similarity : 63.333333333333336
+cagtaaaacctctataaattaataatgtcaaggatttattaatttatcgataaattaata
+> Tir 1 : agtaaaacctctataaattaataatgtcag | Tir 2 : caggatttattaatttatcgataaattaat | Mutations : [3, 7, 8, 9, 10, 13, 26, 27, 28, 30] | Similarity : 66.66666666666667
+agtaaaacctctataaattaataatgtcagcaggatttattaatttatcgataaattaat
+> Tir 1 : gtaaaacctctataaattaataatgtcagg | Tir 2 : tcaggatttattaatttatcgataaattaa | Mutations : [3, 7, 8, 9, 10, 13, 26, 27, 28, 30, 32] | Similarity : 63.333333333333336
+gtaaaacctctataaattaataatgtcaggtcaggatttattaatttatcgataaattaa
+> Tir 1 : taaaacctctataaattaataatgtcagga | Tir 2 : gtcaggatttattaatttatcgataaatta | Mutations : [7, 8, 9, 10, 13, 26, 27, 28, 30, 32, 33] | Similarity : 63.333333333333336
+taaaacctctataaattaataatgtcaggagtcaggatttattaatttatcgataaatta
+> Tir 1 : aacctctataaattaataatgtcaggattt | Tir 2 : aaattaataatttattaattaataaagaga | Mutations : [7, 8, 9, 12, 16, 26, 27, 29, 30, 31, 32] | Similarity : 63.333333333333336
+aacctctataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaagaga
+> Tir 1 : acctctataaattaataatgtcaggattta | Tir 2 : taatgtcaggatttattaatttatcgataa | Mutations : [8, 9, 10, 13, 26, 27, 28, 30, 32, 33, 34] | Similarity : 63.333333333333336
+acctctataaattaataatgtcaggatttataatgtcaggatttattaatttatcgataa
+> Tir 1 : cctctataaattaataatgtcaggatttat | Tir 2 : ataaattaataatttattaattaataaaga | Mutations : [9, 12, 16, 26, 27, 29, 30, 31, 32] | Similarity : 70.0
+cctctataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaaga
+> Tir 1 : ctctataaattaataatgtcaggatttatt | Tir 2 : aattaataatgtcaggatttattaatttat | Mutations : [10, 12, 13, 16, 20, 24, 25, 28, 31, 32, 36] | Similarity : 63.333333333333336
+ctctataaattaataatgtcaggatttattaattaataatgtcaggatttattaatttat
+> Tir 1 : ctctataaattaataatgtcaggatttatt | Tir 2 : aataatgtcaggatttattaatttatcgat | Mutations : [10, 13, 26, 27, 28, 30, 32, 33, 34] | Similarity : 70.0
+ctctataaattaataatgtcaggatttattaataatgtcaggatttattaatttatcgat
+> Tir 1 : ctctataaattaataatgtcaggatttatt | Tir 2 : aatttatcgataaattaataatttattaat | Mutations : [10, 12, 13, 22, 27, 29, 30, 31, 35, 36] | Similarity : 66.66666666666667
+ctctataaattaataatgtcaggatttattaatttatcgataaattaataatttattaat
+> Tir 1 : ctctataaattaataatgtcaggatttatt | Tir 2 : gataaattaataatttattaattaataaag | Mutations : [12, 16, 26, 27, 29, 30, 31, 32, 39] | Similarity : 70.0
+ctctataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaag
+> Tir 1 : tctataaattaataatgtcaggatttatta | Tir 2 : aaattaataatgtcaggatttattaattta | Mutations : [12, 13, 16, 20, 24, 25, 28, 31, 32, 36, 40] | Similarity : 63.333333333333336
+tctataaattaataatgtcaggatttattaaaattaataatgtcaggatttattaattta
+> Tir 1 : tctataaattaataatgtcaggatttatta | Tir 2 : taataatgtcaggatttattaatttatcga | Mutations : [13, 26, 27, 28, 30, 32, 33, 34] | Similarity : 73.33333333333333
+tctataaattaataatgtcaggatttattataataatgtcaggatttattaatttatcga
+> Tir 1 : tctataaattaataatgtcaggatttatta | Tir 2 : taatttatcgataaattaataatttattaa | Mutations : [12, 13, 22, 27, 29, 30, 31, 35, 36] | Similarity : 70.0
+tctataaattaataatgtcaggatttattataatttatcgataaattaataatttattaa
+> Tir 1 : tctataaattaataatgtcaggatttatta | Tir 2 : cgataaattaataatttattaattaataaa | Mutations : [12, 16, 26, 27, 29, 30, 31, 32, 39, 40] | Similarity : 66.66666666666667
+tctataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaa
+> Tir 1 : tctataaattaataatgtcaggatttatta | Tir 2 : ttatagttccttatatttttatagtgtaca | Mutations : [12, 15, 17, 18, 19, 23, 27, 29, 34, 35, 39] | Similarity : 63.333333333333336
+tctataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtaca
+> Tir 1 : ctataaattaataatgtcaggatttattaa | Tir 2 : taaattaataatgtcaggatttattaattt | Mutations : [12, 13, 16, 20, 24, 25, 28, 31, 32, 36, 40] | Similarity : 63.333333333333336
+ctataaattaataatgtcaggatttattaataaattaataatgtcaggatttattaattt
+> Tir 1 : ctataaattaataatgtcaggatttattaa | Tir 2 : ttaataatgtcaggatttattaatttatcg | Mutations : [13, 26, 27, 28, 30, 32, 33, 34] | Similarity : 73.33333333333333
+ctataaattaataatgtcaggatttattaattaataatgtcaggatttattaatttatcg
+> Tir 1 : ctataaattaataatgtcaggatttattaa | Tir 2 : ttaatttatcgataaattaataatttatta | Mutations : [12, 13, 22, 27, 29, 30, 31, 35, 36] | Similarity : 70.0
+ctataaattaataatgtcaggatttattaattaatttatcgataaattaataatttatta
+> Tir 1 : ctataaattaataatgtcaggatttattaa | Tir 2 : tcgataaattaataatttattaattaataa | Mutations : [12, 16, 26, 27, 29, 30, 31, 32, 39, 40] | Similarity : 66.66666666666667
+ctataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataa
+> Tir 1 : tataaattaataatgtcaggatttattaat | Tir 2 : ataaattaataatgtcaggatttattaatt | Mutations : [13, 16, 20, 24, 25, 28, 31, 32, 36, 40] | Similarity : 66.66666666666667
+tataaattaataatgtcaggatttattaatataaattaataatgtcaggatttattaatt
+> Tir 1 : tataaattaataatgtcaggatttattaat | Tir 2 : attaataatgtcaggatttattaatttatc | Mutations : [13, 26, 27, 28, 30, 32, 33, 34] | Similarity : 73.33333333333333
+tataaattaataatgtcaggatttattaatattaataatgtcaggatttattaatttatc
+> Tir 1 : tataaattaataatgtcaggatttattaat | Tir 2 : attaatttatcgataaattaataatttatt | Mutations : [13, 22, 27, 29, 30, 31, 35, 36] | Similarity : 73.33333333333333
+tataaattaataatgtcaggatttattaatattaatttatcgataaattaataatttatt
+> Tir 1 : tataaattaataatgtcaggatttattaat | Tir 2 : atcgataaattaataatttattaattaata | Mutations : [16, 26, 27, 29, 30, 31, 32, 39, 40] | Similarity : 70.0
+tataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaata
+> Tir 1 : tataaattaataatgtcaggatttattaat | Tir 2 : agttatagttccttatatttttatagtgta | Mutations : [15, 17, 18, 19, 23, 27, 29, 34, 35, 39, 41] | Similarity : 63.333333333333336
+tataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgta
+> Tir 1 : ataaattaataatgtcaggatttattaatt | Tir 2 : aattaataatgtcaggatttattaatttat | Mutations : [26, 27, 28, 30, 32, 33, 34] | Similarity : 76.66666666666667
+ataaattaataatgtcaggatttattaattaattaataatgtcaggatttattaatttat
+> Tir 1 : ataaattaataatgtcaggatttattaatt | Tir 2 : tattaatttatcgataaattaataatttat | Mutations : [22, 27, 29, 30, 31, 35, 36, 43] | Similarity : 73.33333333333333
+ataaattaataatgtcaggatttattaatttattaatttatcgataaattaataatttat
+> Tir 1 : ataaattaataatgtcaggatttattaatt | Tir 2 : tatcgataaattaataatttattaattaat | Mutations : [16, 26, 27, 29, 30, 31, 32, 39, 40, 43] | Similarity : 66.66666666666667
+ataaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaat
+> Tir 1 : taaattaataatgtcaggatttattaattt | Tir 2 : aaattaataatgtcaggatttattaattta | Mutations : [26, 27, 28, 30, 32, 33, 34] | Similarity : 76.66666666666667
+taaattaataatgtcaggatttattaatttaaattaataatgtcaggatttattaattta
+> Tir 1 : taaattaataatgtcaggatttattaattt | Tir 2 : ttattaatttatcgataaattaataattta | Mutations : [22, 27, 29, 30, 31, 35, 36, 43, 44] | Similarity : 70.0
+taaattaataatgtcaggatttattaatttttattaatttatcgataaattaataattta
+> Tir 1 : taaattaataatgtcaggatttattaattt | Tir 2 : aaattaataatttattaattaataaagaga | Mutations : [16, 17, 18, 21, 24, 26, 27, 29, 31, 32, 34] | Similarity : 63.333333333333336
+taaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaagaga
+> Tir 1 : taaattaataatgtcaggatttattaattt | Tir 2 : agataaagaaaggttgacagttgttatttg | Mutations : [15, 20, 22, 23, 25, 31, 32, 33, 37, 40, 43] | Similarity : 63.333333333333336
+taaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttg
+> Tir 1 : aaattaataatgtcaggatttattaattta | Tir 2 : taaattaataatttattaattaataaagag | Mutations : [16, 17, 18, 21, 24, 26, 27, 29, 31, 32, 34] | Similarity : 63.333333333333336
+aaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaagag
+> Tir 1 : aaattaataatgtcaggatttattaattta | Tir 2 : aagataaagaaaggttgacagttgttattt | Mutations : [20, 22, 23, 25, 31, 32, 33, 37, 40, 43, 45] | Similarity : 63.333333333333336
+aaattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttattt
+> Tir 1 : aattaataatgtcaggatttattaatttat | Tir 2 : atttatcgataaattaataatttattaatt | Mutations : [26, 27, 29, 30, 31, 32, 39, 40, 43, 44] | Similarity : 66.66666666666667
+aattaataatgtcaggatttattaatttatatttatcgataaattaataatttattaatt
+> Tir 1 : aattaataatgtcaggatttattaatttat | Tir 2 : ataaattaataatttattaattaataaaga | Mutations : [17, 18, 21, 24, 26, 27, 29, 31, 32, 34] | Similarity : 66.66666666666667
+aattaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaaga
+> Tir 1 : attaataatgtcaggatttattaatttatc | Tir 2 : gatttattaatttatcgataaattaataat | Mutations : [22, 27, 29, 30, 31, 35, 36, 43, 44] | Similarity : 70.0
+attaataatgtcaggatttattaatttatcgatttattaatttatcgataaattaataat
+> Tir 1 : attaataatgtcaggatttattaatttatc | Tir 2 : aatttatcgataaattaataatttattaat | Mutations : [26, 27, 29, 30, 31, 32, 39, 40, 43, 44, 47] | Similarity : 63.333333333333336
+attaataatgtcaggatttattaatttatcaatttatcgataaattaataatttattaat
+> Tir 1 : attaataatgtcaggatttattaatttatc | Tir 2 : gataaattaataatttattaattaataaag | Mutations : [18, 21, 24, 26, 27, 29, 31, 32, 34] | Similarity : 70.0
+attaataatgtcaggatttattaatttatcgataaattaataatttattaattaataaag
+> Tir 1 : ttaataatgtcaggatttattaatttatcg | Tir 2 : ggatttattaatttatcgataaattaataa | Mutations : [22, 27, 29, 30, 31, 35, 36, 43, 44, 48] | Similarity : 66.66666666666667
+ttaataatgtcaggatttattaatttatcgggatttattaatttatcgataaattaataa
+> Tir 1 : ttaataatgtcaggatttattaatttatcg | Tir 2 : cgataaattaataatttattaattaataaa | Mutations : [21, 24, 26, 27, 29, 31, 32, 34] | Similarity : 73.33333333333333
+ttaataatgtcaggatttattaatttatcgcgataaattaataatttattaattaataaa
+> Tir 1 : taataatgtcaggatttattaatttatcga | Tir 2 : tcgataaattaataatttattaattaataa | Mutations : [21, 24, 26, 27, 29, 31, 32, 34] | Similarity : 73.33333333333333
+taataatgtcaggatttattaatttatcgatcgataaattaataatttattaattaataa
+> Tir 1 : aataatgtcaggatttattaatttatcgat | Tir 2 : atcgataaattaataatttattaattaata | Mutations : [21, 24, 26, 27, 29, 31, 32, 34] | Similarity : 73.33333333333333
+aataatgtcaggatttattaatttatcgatatcgataaattaataatttattaattaata
+> Tir 1 : ataatgtcaggatttattaatttatcgata | Tir 2 : tatcgataaattaataatttattaattaat | Mutations : [24, 26, 27, 29, 31, 32, 34] | Similarity : 76.66666666666667
+ataatgtcaggatttattaatttatcgatatatcgataaattaataatttattaattaat
+> Tir 1 : ataatgtcaggatttattaatttatcgata | Tir 2 : catccaaaaattattgaagggttacaaaat | Mutations : [24, 25, 29, 31, 32, 33, 36, 38, 45, 47, 51] | Similarity : 63.333333333333336
+ataatgtcaggatttattaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaat
+> Tir 1 : taatgtcaggatttattaatttatcgataa | Tir 2 : ttatcgataaattaataatttattaattaa | Mutations : [24, 26, 27, 29, 31, 32, 34] | Similarity : 76.66666666666667
+taatgtcaggatttattaatttatcgataattatcgataaattaataatttattaattaa
+> Tir 1 : atgtcaggatttattaatttatcgataaat | Tir 2 : atttatcgataaattaataatttattaatt | Mutations : [26, 27, 29, 31, 32, 34] | Similarity : 80.0
+atgtcaggatttattaatttatcgataaatatttatcgataaattaataatttattaatt
+> Tir 1 : tgtcaggatttattaatttatcgataaatt | Tir 2 : aatttatcgataaattaataatttattaat | Mutations : [26, 27, 29, 31, 32, 34] | Similarity : 80.0
+tgtcaggatttattaatttatcgataaattaatttatcgataaattaataatttattaat
+> Tir 1 : tgtcaggatttattaatttatcgataaatt | Tir 2 : aaattaataatttattaattaataaagaga | Mutations : [27, 30, 31, 32, 36, 43, 44, 47, 48, 49, 53] | Similarity : 63.333333333333336
+tgtcaggatttattaatttatcgataaattaaattaataatttattaattaataaagaga
+> Tir 1 : gtcaggatttattaatttatcgataaatta | Tir 2 : taatttatcgataaattaataatttattaa | Mutations : [27, 29, 31, 32, 34] | Similarity : 83.33333333333333
+gtcaggatttattaatttatcgataaattataatttatcgataaattaataatttattaa
+> Tir 1 : gtcaggatttattaatttatcgataaatta | Tir 2 : taaattaataatttattaattaataaagag | Mutations : [27, 30, 31, 32, 36, 43, 44, 47, 48, 49, 53] | Similarity : 63.333333333333336
+gtcaggatttattaatttatcgataaattataaattaataatttattaattaataaagag
+> Tir 1 : tcaggatttattaatttatcgataaattaa | Tir 2 : ttaatttatcgataaattaataatttatta | Mutations : [29, 31, 32, 34] | Similarity : 86.66666666666667
+tcaggatttattaatttatcgataaattaattaatttatcgataaattaataatttatta
+> Tir 1 : tcaggatttattaatttatcgataaattaa | Tir 2 : ataaattaataatttattaattaataaaga | Mutations : [30, 31, 32, 36, 43, 44, 47, 48, 49, 53, 57] | Similarity : 63.333333333333336
+tcaggatttattaatttatcgataaattaaataaattaataatttattaattaataaaga
+> Tir 1 : tcaggatttattaatttatcgataaattaa | Tir 2 : ttcatttgtaaataattttaaaatttcttt | Mutations : [28, 29, 32, 34, 37, 39, 42, 47, 48, 50, 55] | Similarity : 63.333333333333336
+tcaggatttattaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttt
+> Tir 1 : caggatttattaatttatcgataaattaat | Tir 2 : atttattaatttatcgataaattaataatt | Mutations : [29, 31, 32, 36, 40, 43, 44, 47, 48, 51, 55] | Similarity : 63.333333333333336
+caggatttattaatttatcgataaattaatatttattaatttatcgataaattaataatt
+> Tir 1 : caggatttattaatttatcgataaattaat | Tir 2 : attaatttatcgataaattaataatttatt | Mutations : [29, 31, 32, 34] | Similarity : 86.66666666666667
+caggatttattaatttatcgataaattaatattaatttatcgataaattaataatttatt
+> Tir 1 : caggatttattaatttatcgataaattaat | Tir 2 : aataatttattaattaataaagagaatttt | Mutations : [29, 31, 32, 33, 35, 37, 40, 44, 47, 48, 57] | Similarity : 63.333333333333336
+caggatttattaatttatcgataaattaataataatttattaattaataaagagaatttt
+> Tir 1 : caggatttattaatttatcgataaattaat | Tir 2 : tttcatttgtaaataattttaaaatttctt | Mutations : [29, 32, 34, 37, 39, 42, 47, 48, 50, 55, 58] | Similarity : 63.333333333333336
+caggatttattaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttctt
+> Tir 1 : aggatttattaatttatcgataaattaata | Tir 2 : gatttattaatttatcgataaattaataat | Mutations : [31, 32, 36, 40, 43, 44, 47, 48, 51, 55, 59] | Similarity : 63.333333333333336
+aggatttattaatttatcgataaattaatagatttattaatttatcgataaattaataat
+> Tir 1 : aggatttattaatttatcgataaattaata | Tir 2 : tattaatttatcgataaattaataatttat | Mutations : [31, 32, 34] | Similarity : 90.0
+aggatttattaatttatcgataaattaatatattaatttatcgataaattaataatttat
+> Tir 1 : aggatttattaatttatcgataaattaata | Tir 2 : tatcgataaattaataatttattaattaat | Mutations : [31, 32, 34, 38, 42, 47, 48, 51, 52, 55, 56] | Similarity : 63.333333333333336
+aggatttattaatttatcgataaattaatatatcgataaattaataatttattaattaat
+> Tir 1 : aggatttattaatttatcgataaattaata | Tir 2 : taataatttattaattaataaagagaattt | Mutations : [31, 32, 33, 35, 37, 40, 44, 47, 48, 57] | Similarity : 66.66666666666667
+aggatttattaatttatcgataaattaatataataatttattaattaataaagagaattt
+> Tir 1 : aggatttattaatttatcgataaattaata | Tir 2 : atttcatttgtaaataattttaaaatttct | Mutations : [32, 34, 37, 39, 42, 47, 48, 50, 55, 58, 59] | Similarity : 63.333333333333336
+aggatttattaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttct
+> Tir 1 : ggatttattaatttatcgataaattaataa | Tir 2 : ttattaatttatcgataaattaataattta | Mutations : [31, 32, 34] | Similarity : 90.0
+ggatttattaatttatcgataaattaataattattaatttatcgataaattaataattta
+> Tir 1 : ggatttattaatttatcgataaattaataa | Tir 2 : ttatcgataaattaataatttattaattaa | Mutations : [31, 32, 34, 38, 42, 47, 48, 51, 52, 55, 56] | Similarity : 63.333333333333336
+ggatttattaatttatcgataaattaataattatcgataaattaataatttattaattaa
+> Tir 1 : ggatttattaatttatcgataaattaataa | Tir 2 : taaattaataatttattaattaataaagag | Mutations : [31, 32, 33, 44, 47, 48, 51, 53, 55, 57, 59] | Similarity : 63.333333333333336
+ggatttattaatttatcgataaattaataataaattaataatttattaattaataaagag
+> Tir 1 : ggatttattaatttatcgataaattaataa | Tir 2 : ttaataatttattaattaataaagagaatt | Mutations : [31, 32, 33, 35, 37, 40, 44, 47, 48, 57] | Similarity : 66.66666666666667
+ggatttattaatttatcgataaattaataattaataatttattaattaataaagagaatt
+> Tir 1 : gatttattaatttatcgataaattaataat | Tir 2 : tttattaatttatcgataaattaataattt | Mutations : [32, 34, 61] | Similarity : 90.0
+gatttattaatttatcgataaattaataattttattaatttatcgataaattaataattt
+> Tir 1 : gatttattaatttatcgataaattaataat | Tir 2 : tttatcgataaattaataatttattaatta | Mutations : [32, 34, 38, 42, 47, 48, 51, 52, 55, 56, 61] | Similarity : 63.333333333333336
+gatttattaatttatcgataaattaataattttatcgataaattaataatttattaatta
+> Tir 1 : gatttattaatttatcgataaattaataat | Tir 2 : atcgataaattaataatttattaattaata | Mutations : [32, 36, 43, 44, 47, 48, 49, 53, 57, 58, 59] | Similarity : 63.333333333333336
+gatttattaatttatcgataaattaataatatcgataaattaataatttattaattaata
+> Tir 1 : gatttattaatttatcgataaattaataat | Tir 2 : ataaattaataatttattaattaataaaga | Mutations : [32, 33, 44, 47, 48, 51, 53, 55, 57, 59] | Similarity : 66.66666666666667
+gatttattaatttatcgataaattaataatataaattaataatttattaattaataaaga
+> Tir 1 : gatttattaatttatcgataaattaataat | Tir 2 : attaataatttattaattaataaagagaat | Mutations : [32, 33, 35, 37, 40, 44, 47, 48, 57] | Similarity : 70.0
+gatttattaatttatcgataaattaataatattaataatttattaattaataaagagaat
+> Tir 1 : atttattaatttatcgataaattaataatt | Tir 2 : atttatcgataaattaataatttattaatt | Mutations : [34, 38, 42, 47, 48, 51, 52, 55, 56, 61] | Similarity : 66.66666666666667
+atttattaatttatcgataaattaataattatttatcgataaattaataatttattaatt
+> Tir 1 : atttattaatttatcgataaattaataatt | Tir 2 : tatcgataaattaataatttattaattaat | Mutations : [36, 43, 44, 47, 48, 49, 53, 57, 58, 59, 62] | Similarity : 63.333333333333336
+atttattaatttatcgataaattaataatttatcgataaattaataatttattaattaat
+> Tir 1 : atttattaatttatcgataaattaataatt | Tir 2 : gataaattaataatttattaattaataaag | Mutations : [33, 44, 47, 48, 51, 53, 55, 57, 59, 62] | Similarity : 66.66666666666667
+atttattaatttatcgataaattaataattgataaattaataatttattaattaataaag
+> Tir 1 : atttattaatttatcgataaattaataatt | Tir 2 : aattaataatttattaattaataaagagaa | Mutations : [33, 35, 37, 40, 44, 47, 48, 57] | Similarity : 73.33333333333333
+atttattaatttatcgataaattaataattaattaataatttattaattaataaagagaa
+> Tir 1 : tttattaatttatcgataaattaataattt | Tir 2 : aatttatcgataaattaataatttattaat | Mutations : [34, 38, 42, 47, 48, 51, 52, 55, 56, 61] | Similarity : 66.66666666666667
+tttattaatttatcgataaattaataatttaatttatcgataaattaataatttattaat
+> Tir 1 : tttattaatttatcgataaattaataattt | Tir 2 : aaattaataatttattaattaataaagaga | Mutations : [35, 37, 40, 44, 47, 48, 57] | Similarity : 76.66666666666667
+tttattaatttatcgataaattaataatttaaattaataatttattaattaataaagaga
+> Tir 1 : ttattaatttatcgataaattaataattta | Tir 2 : taatttatcgataaattaataatttattaa | Mutations : [38, 42, 47, 48, 51, 52, 55, 56, 61] | Similarity : 70.0
+ttattaatttatcgataaattaataatttataatttatcgataaattaataatttattaa
+> Tir 1 : ttattaatttatcgataaattaataattta | Tir 2 : tcgataaattaataatttattaattaataa | Mutations : [44, 47, 48, 51, 53, 55, 57, 59, 62, 63] | Similarity : 66.66666666666667
+ttattaatttatcgataaattaataatttatcgataaattaataatttattaattaataa
+> Tir 1 : ttattaatttatcgataaattaataattta | Tir 2 : taaattaataatttattaattaataaagag | Mutations : [35, 37, 40, 44, 47, 48, 57] | Similarity : 76.66666666666667
+ttattaatttatcgataaattaataatttataaattaataatttattaattaataaagag
+> Tir 1 : ttattaatttatcgataaattaataattta | Tir 2 : taatttattaattaataaagagaatttttg | Mutations : [35, 36, 38, 39, 41, 43, 45, 47, 48, 51, 61] | Similarity : 63.333333333333336
+ttattaatttatcgataaattaataatttataatttattaattaataaagagaatttttg
+> Tir 1 : tattaatttatcgataaattaataatttat | Tir 2 : ttaatttatcgataaattaataatttatta | Mutations : [38, 42, 47, 48, 51, 52, 55, 56, 61, 65] | Similarity : 66.66666666666667
+tattaatttatcgataaattaataatttatttaatttatcgataaattaataatttatta
+> Tir 1 : tattaatttatcgataaattaataatttat | Tir 2 : atcgataaattaataatttattaattaata | Mutations : [44, 47, 48, 51, 53, 55, 57, 59, 62, 63] | Similarity : 66.66666666666667
+tattaatttatcgataaattaataatttatatcgataaattaataatttattaattaata
+> Tir 1 : tattaatttatcgataaattaataatttat | Tir 2 : ataaattaataatttattaattaataaaga | Mutations : [37, 40, 44, 47, 48, 57] | Similarity : 80.0
+tattaatttatcgataaattaataatttatataaattaataatttattaattaataaaga
+> Tir 1 : tattaatttatcgataaattaataatttat | Tir 2 : ataatttattaattaataaagagaattttt | Mutations : [36, 38, 39, 41, 43, 45, 47, 48, 51, 61] | Similarity : 66.66666666666667
+tattaatttatcgataaattaataatttatataatttattaattaataaagagaattttt
+> Tir 1 : attaatttatcgataaattaataatttatt | Tir 2 : aatttatcgataaattaataatttattaat | Mutations : [43, 44, 47, 48, 49, 53, 57, 58, 59, 62, 63] | Similarity : 63.333333333333336
+attaatttatcgataaattaataatttattaatttatcgataaattaataatttattaat
+> Tir 1 : attaatttatcgataaattaataatttatt | Tir 2 : tatcgataaattaataatttattaattaat | Mutations : [44, 47, 48, 51, 53, 55, 57, 59, 62, 63, 66] | Similarity : 63.333333333333336
+attaatttatcgataaattaataatttatttatcgataaattaataatttattaattaat
+> Tir 1 : attaatttatcgataaattaataatttatt | Tir 2 : gataaattaataatttattaattaataaag | Mutations : [37, 40, 44, 47, 48, 57, 66] | Similarity : 76.66666666666667
+attaatttatcgataaattaataatttattgataaattaataatttattaattaataaag
+> Tir 1 : attaatttatcgataaattaataatttatt | Tir 2 : aataatttattaattaataaagagaatttt | Mutations : [38, 39, 41, 43, 45, 47, 48, 51, 61] | Similarity : 70.0
+attaatttatcgataaattaataatttattaataatttattaattaataaagagaatttt
+> Tir 1 : attaatttatcgataaattaataatttatt | Tir 2 : aagaaaagtttcatttaaagattagtcaag | Mutations : [37, 40, 42, 44, 48, 49, 55, 58, 59, 60, 64] | Similarity : 63.333333333333336
+attaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaag
+> Tir 1 : ttaatttatcgataaattaataatttatta | Tir 2 : taatttatcgataaattaataatttattaa | Mutations : [43, 44, 47, 48, 49, 53, 57, 58, 59, 62, 63] | Similarity : 63.333333333333336
+ttaatttatcgataaattaataatttattataatttatcgataaattaataatttattaa
+> Tir 1 : ttaatttatcgataaattaataatttatta | Tir 2 : cgataaattaataatttattaattaataaa | Mutations : [40, 44, 47, 48, 57, 66, 67] | Similarity : 76.66666666666667
+ttaatttatcgataaattaataatttattacgataaattaataatttattaattaataaa
+> Tir 1 : ttaatttatcgataaattaataatttatta | Tir 2 : aaattaataatttattaattaataaagaga | Mutations : [39, 40, 41, 47, 48, 51, 55, 59, 63, 67] | Similarity : 66.66666666666667
+ttaatttatcgataaattaataatttattaaaattaataatttattaattaataaagaga
+> Tir 1 : ttaatttatcgataaattaataatttatta | Tir 2 : taataatttattaattaataaagagaattt | Mutations : [38, 39, 41, 43, 45, 47, 48, 51, 61] | Similarity : 70.0
+ttaatttatcgataaattaataatttattataataatttattaattaataaagagaattt
+> Tir 1 : ttaatttatcgataaattaataatttatta | Tir 2 : gaagaaaagtttcatttaaagattagtcaa | Mutations : [40, 42, 44, 48, 49, 55, 58, 59, 60, 64, 67] | Similarity : 63.333333333333336
+ttaatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaa
+> Tir 1 : taatttatcgataaattaataatttattaa | Tir 2 : tcgataaattaataatttattaattaataa | Mutations : [40, 44, 47, 48, 57, 66, 67] | Similarity : 76.66666666666667
+taatttatcgataaattaataatttattaatcgataaattaataatttattaattaataa
+> Tir 1 : taatttatcgataaattaataatttattaa | Tir 2 : taaattaataatttattaattaataaagag | Mutations : [39, 40, 41, 47, 48, 51, 55, 59, 63, 67] | Similarity : 66.66666666666667
+taatttatcgataaattaataatttattaataaattaataatttattaattaataaagag
+> Tir 1 : taatttatcgataaattaataatttattaa | Tir 2 : ttaataatttattaattaataaagagaatt | Mutations : [39, 41, 43, 45, 47, 48, 51, 61] | Similarity : 73.33333333333333
+taatttatcgataaattaataatttattaattaataatttattaattaataaagagaatt
+> Tir 1 : taatttatcgataaattaataatttattaa | Tir 2 : ttattatattatttattcttaattgactaa | Mutations : [40, 42, 44, 46, 47, 48, 50, 51, 55, 62, 65] | Similarity : 63.333333333333336
+taatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaa
+> Tir 1 : taatttatcgataaattaataatttattaa | Tir 2 : tgaagaaaagtttcatttaaagattagtca | Mutations : [40, 42, 44, 48, 49, 55, 58, 59, 60, 64, 67] | Similarity : 63.333333333333336
+taatttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtca
+> Tir 1 : aatttatcgataaattaataatttattaat | Tir 2 : atttatcgataaattaataatttattaatt | Mutations : [44, 47, 48, 51, 53, 55, 57, 59, 62, 63, 66] | Similarity : 63.333333333333336
+aatttatcgataaattaataatttattaatatttatcgataaattaataatttattaatt
+> Tir 1 : aatttatcgataaattaataatttattaat | Tir 2 : atcgataaattaataatttattaattaata | Mutations : [40, 44, 47, 48, 57, 66, 67] | Similarity : 76.66666666666667
+aatttatcgataaattaataatttattaatatcgataaattaataatttattaattaata
+> Tir 1 : aatttatcgataaattaataatttattaat | Tir 2 : ataaattaataatttattaattaataaaga | Mutations : [40, 41, 47, 48, 51, 55, 59, 63, 67] | Similarity : 70.0
+aatttatcgataaattaataatttattaatataaattaataatttattaattaataaaga
+> Tir 1 : atttatcgataaattaataatttattaatt | Tir 2 : tatcgataaattaataatttattaattaat | Mutations : [44, 47, 48, 57, 66, 67, 70] | Similarity : 76.66666666666667
+atttatcgataaattaataatttattaatttatcgataaattaataatttattaattaat
+> Tir 1 : atttatcgataaattaataatttattaatt | Tir 2 : gataaattaataatttattaattaataaag | Mutations : [41, 47, 48, 51, 55, 59, 63, 67, 70] | Similarity : 70.0
+atttatcgataaattaataatttattaattgataaattaataatttattaattaataaag
+> Tir 1 : atttatcgataaattaataatttattaatt | Tir 2 : aattaataatttattaattaataaagagaa | Mutations : [41, 43, 45, 47, 48, 51, 61] | Similarity : 76.66666666666667
+atttatcgataaattaataatttattaattaattaataatttattaattaataaagagaa
+> Tir 1 : atttatcgataaattaataatttattaatt | Tir 2 : agttattatattatttattcttaattgact | Mutations : [42, 44, 46, 47, 48, 50, 51, 55, 62, 65, 69] | Similarity : 63.333333333333336
+atttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgact
+> Tir 1 : tttatcgataaattaataatttattaatta | Tir 2 : ttatcgataaattaataatttattaattaa | Mutations : [44, 47, 48, 57, 66, 67, 70] | Similarity : 76.66666666666667
+tttatcgataaattaataatttattaattattatcgataaattaataatttattaattaa
+> Tir 1 : tttatcgataaattaataatttattaatta | Tir 2 : cgataaattaataatttattaattaataaa | Mutations : [47, 48, 51, 55, 59, 63, 67, 70, 71] | Similarity : 70.0
+tttatcgataaattaataatttattaattacgataaattaataatttattaattaataaa
+> Tir 1 : tttatcgataaattaataatttattaatta | Tir 2 : aaattaataatttattaattaataaagaga | Mutations : [43, 45, 47, 48, 51, 61, 71] | Similarity : 76.66666666666667
+tttatcgataaattaataatttattaattaaaattaataatttattaattaataaagaga
+> Tir 1 : tttatcgataaattaataatttattaatta | Tir 2 : tagttattatattatttattcttaattgac | Mutations : [42, 44, 46, 47, 48, 50, 51, 55, 62, 65, 69] | Similarity : 63.333333333333336
+tttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgac
+> Tir 1 : ttatcgataaattaataatttattaattaa | Tir 2 : tcgataaattaataatttattaattaataa | Mutations : [47, 48, 51, 55, 59, 63, 67, 70, 71] | Similarity : 70.0
+ttatcgataaattaataatttattaattaatcgataaattaataatttattaattaataa
+> Tir 1 : ttatcgataaattaataatttattaattaa | Tir 2 : taaattaataatttattaattaataaagag | Mutations : [43, 45, 47, 48, 51, 61, 71] | Similarity : 76.66666666666667
+ttatcgataaattaataatttattaattaataaattaataatttattaattaataaagag
+> Tir 1 : ttatcgataaattaataatttattaattaa | Tir 2 : ttagttattatattatttattcttaattga | Mutations : [44, 46, 47, 48, 50, 51, 55, 62, 65, 69] | Similarity : 66.66666666666667
+ttatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattga
+> Tir 1 : tatcgataaattaataatttattaattaat | Tir 2 : atcgataaattaataatttattaattaata | Mutations : [47, 48, 51, 55, 59, 63, 67, 70, 71] | Similarity : 70.0
+tatcgataaattaataatttattaattaatatcgataaattaataatttattaattaata
+> Tir 1 : tatcgataaattaataatttattaattaat | Tir 2 : ataaattaataatttattaattaataaaga | Mutations : [45, 47, 48, 51, 61, 71] | Similarity : 80.0
+tatcgataaattaataatttattaattaatataaattaataatttattaattaataaaga
+> Tir 1 : tatcgataaattaataatttattaattaat | Tir 2 : tttagttattatattatttattcttaattg | Mutations : [44, 46, 47, 48, 50, 51, 55, 62, 65, 69, 73] | Similarity : 63.333333333333336
+tatcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattg
+> Tir 1 : atcgataaattaataatttattaattaata | Tir 2 : gataaattaataatttattaattaataaag | Mutations : [45, 47, 48, 51, 61, 71, 74] | Similarity : 76.66666666666667
+atcgataaattaataatttattaattaatagataaattaataatttattaattaataaag
+> Tir 1 : atcgataaattaataatttattaattaata | Tir 2 : gtttagttattatattatttattcttaatt | Mutations : [46, 47, 48, 50, 51, 55, 62, 65, 69, 73, 74] | Similarity : 63.333333333333336
+atcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaatt
+> Tir 1 : atcgataaattaataatttattaattaata | Tir 2 : tattatattatttattcttaattgactaag | Mutations : [45, 47, 48, 49, 51, 58, 62, 63, 66, 68, 69] | Similarity : 63.333333333333336
+atcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaag
+> Tir 1 : tcgataaattaataatttattaattaataa | Tir 2 : cgataaattaataatttattaattaataaa | Mutations : [47, 48, 51, 61, 71, 74, 75] | Similarity : 76.66666666666667
+tcgataaattaataatttattaattaataacgataaattaataatttattaattaataaa
+> Tir 1 : tcgataaattaataatttattaattaataa | Tir 2 : aaattaataatttattaattaataaagaga | Mutations : [48, 49, 51, 52, 59, 61, 63, 65, 67, 74, 75] | Similarity : 63.333333333333336
+tcgataaattaataatttattaattaataaaaattaataatttattaattaataaagaga
+> Tir 1 : tcgataaattaataatttattaattaataa | Tir 2 : ttattatattatttattcttaattgactaa | Mutations : [47, 48, 49, 51, 58, 62, 63, 66, 68, 69] | Similarity : 66.66666666666667
+tcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaa
+> Tir 1 : tcgataaattaataatttattaattaataa | Tir 2 : ttatttattcttaattgactaagctacaaa | Mutations : [47, 48, 49, 52, 53, 57, 59, 61, 65, 66, 70] | Similarity : 63.333333333333336
+tcgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaa
+> Tir 1 : cgataaattaataatttattaattaataaa | Tir 2 : taaattaataatttattaattaataaagag | Mutations : [48, 49, 51, 52, 59, 61, 63, 65, 67, 74, 75] | Similarity : 63.333333333333336
+cgataaattaataatttattaattaataaataaattaataatttattaattaataaagag
+> Tir 1 : cgataaattaataatttattaattaataaa | Tir 2 : tttattaattaataaagagaatttttggtt | Mutations : [47, 48, 49, 50, 54, 55, 56, 57, 58, 59, 60] | Similarity : 63.333333333333336
+cgataaattaataatttattaattaataaatttattaattaataaagagaatttttggtt
+> Tir 1 : cgataaattaataatttattaattaataaa | Tir 2 : ttaattaataaagagaatttttggttttca | Mutations : [47, 50, 53, 54, 55, 58, 60, 62, 64, 67, 74] | Similarity : 63.333333333333336
+cgataaattaataatttattaattaataaattaattaataaagagaatttttggttttca
+> Tir 1 : cgataaattaataatttattaattaataaa | Tir 2 : ttcatttgtaaataattttaaaatttcttt | Mutations : [47, 48, 50, 56, 57, 58, 61, 67, 69, 70, 74] | Similarity : 63.333333333333336
+cgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttt
+> Tir 1 : cgataaattaataatttattaattaataaa | Tir 2 : tagtttagttattatattatttattcttaa | Mutations : [47, 48, 50, 51, 55, 62, 65, 69, 73, 74, 75] | Similarity : 63.333333333333336
+cgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaa
+> Tir 1 : cgataaattaataatttattaattaataaa | Tir 2 : gttattatattatttattcttaattgacta | Mutations : [47, 48, 49, 51, 58, 62, 63, 66, 68, 69, 76] | Similarity : 63.333333333333336
+cgataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgacta
+> Tir 1 : gataaattaataatttattaattaataaag | Tir 2 : atttattaattaataaagagaatttttggt | Mutations : [48, 49, 50, 54, 55, 56, 57, 58, 59, 60, 77] | Similarity : 63.333333333333336
+gataaattaataatttattaattaataaagatttattaattaataaagagaatttttggt
+> Tir 1 : gataaattaataatttattaattaataaag | Tir 2 : attaattaataaagagaatttttggttttc | Mutations : [50, 53, 54, 55, 58, 60, 62, 64, 67, 74, 77] | Similarity : 63.333333333333336
+gataaattaataatttattaattaataaagattaattaataaagagaatttttggttttc
+> Tir 1 : gataaattaataatttattaattaataaag | Tir 2 : tttcatttgtaaataattttaaaatttctt | Mutations : [48, 50, 56, 57, 58, 61, 67, 69, 70, 74, 77] | Similarity : 63.333333333333336
+gataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttctt
+> Tir 1 : gataaattaataatttattaattaataaag | Tir 2 : ttagtttagttattatattatttattctta | Mutations : [48, 50, 51, 55, 62, 65, 69, 73, 74, 75, 77] | Similarity : 63.333333333333336
+gataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattctta
+> Tir 1 : gataaattaataatttattaattaataaag | Tir 2 : agttattatattatttattcttaattgact | Mutations : [48, 49, 51, 58, 62, 63, 66, 68, 69, 76, 77] | Similarity : 63.333333333333336
+gataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgact
+> Tir 1 : ataaattaataatttattaattaataaaga | Tir 2 : aatttattaattaataaagagaatttttgg | Mutations : [49, 50, 54, 55, 56, 57, 58, 59, 60, 77, 78] | Similarity : 63.333333333333336
+ataaattaataatttattaattaataaagaaatttattaattaataaagagaatttttgg
+> Tir 1 : ataaattaataatttattaattaataaaga | Tir 2 : tattaattaataaagagaatttttggtttt | Mutations : [50, 53, 54, 55, 58, 60, 62, 64, 67, 74, 77] | Similarity : 63.333333333333336
+ataaattaataatttattaattaataaagatattaattaataaagagaatttttggtttt
+> Tir 1 : ataaattaataatttattaattaataaaga | Tir 2 : atttcatttgtaaataattttaaaatttct | Mutations : [50, 56, 57, 58, 61, 67, 69, 70, 74, 77, 78] | Similarity : 63.333333333333336
+ataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttct
+> Tir 1 : ataaattaataatttattaattaataaaga | Tir 2 : attagtttagttattatattatttattctt | Mutations : [50, 51, 55, 62, 65, 69, 73, 74, 75, 77, 78] | Similarity : 63.333333333333336
+ataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattctt
+> Tir 1 : ataaattaataatttattaattaataaaga | Tir 2 : tagttattatattatttattcttaattgac | Mutations : [49, 51, 58, 62, 63, 66, 68, 69, 76, 77] | Similarity : 66.66666666666667
+ataaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgac
+> Tir 1 : taaattaataatttattaattaataaagag | Tir 2 : taatttattaattaataaagagaatttttg | Mutations : [50, 54, 55, 56, 57, 58, 59, 60, 77, 78, 79] | Similarity : 63.333333333333336
+taaattaataatttattaattaataaagagtaatttattaattaataaagagaatttttg
+> Tir 1 : taaattaataatttattaattaataaagag | Tir 2 : cattagtttagttattatattatttattct | Mutations : [50, 51, 55, 62, 65, 69, 73, 74, 75, 77, 78] | Similarity : 63.333333333333336
+taaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattct
+> Tir 1 : taaattaataatttattaattaataaagag | Tir 2 : ttagttattatattatttattcttaattga | Mutations : [51, 58, 62, 63, 66, 68, 69, 76, 77, 79] | Similarity : 66.66666666666667
+taaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattga
+> Tir 1 : aaattaataatttattaattaataaagaga | Tir 2 : ataatttattaattaataaagagaattttt | Mutations : [54, 55, 56, 57, 58, 59, 60, 77, 78, 79, 80] | Similarity : 63.333333333333336
+aaattaataatttattaattaataaagagaataatttattaattaataaagagaattttt
+> Tir 1 : aaattaataatttattaattaataaagaga | Tir 2 : tttattaattaataaagagaatttttggtt | Mutations : [53, 54, 55, 58, 60, 62, 64, 67, 74, 77, 79] | Similarity : 63.333333333333336
+aaattaataatttattaattaataaagagatttattaattaataaagagaatttttggtt
+> Tir 1 : aaattaataatttattaattaataaagaga | Tir 2 : gcattagtttagttattatattatttattc | Mutations : [51, 55, 62, 65, 69, 73, 74, 75, 77, 78, 80] | Similarity : 63.333333333333336
+aaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattc
+> Tir 1 : aaattaataatttattaattaataaagaga | Tir 2 : tttagttattatattatttattcttaattg | Mutations : [51, 58, 62, 63, 66, 68, 69, 76, 77, 79] | Similarity : 66.66666666666667
+aaattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattg
+> Tir 1 : aattaataatttattaattaataaagagaa | Tir 2 : agcattagtttagttattatattatttatt | Mutations : [55, 62, 65, 69, 73, 74, 75, 77, 78, 80, 81] | Similarity : 63.333333333333336
+aattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttatt
+> Tir 1 : aattaataatttattaattaataaagagaa | Tir 2 : gtttagttattatattatttattcttaatt | Mutations : [58, 62, 63, 66, 68, 69, 76, 77, 79, 81] | Similarity : 66.66666666666667
+aattaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaatt
+> Tir 1 : attaataatttattaattaataaagagaat | Tir 2 : agtttagttattatattatttattcttaat | Mutations : [58, 62, 63, 66, 68, 69, 76, 77, 79, 81] | Similarity : 66.66666666666667
+attaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaat
+> Tir 1 : ttaataatttattaattaataaagagaatt | Tir 2 : tagtttagttattatattatttattcttaa | Mutations : [58, 62, 63, 66, 68, 69, 76, 77, 79, 81, 83] | Similarity : 63.333333333333336
+ttaataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaa
+> Tir 1 : taataatttattaattaataaagagaattt | Tir 2 : ataatttattaattaataaagagaattttt | Mutations : [55, 58, 60, 62, 64, 67, 74, 77, 79, 81, 83] | Similarity : 63.333333333333336
+taataatttattaattaataaagagaatttataatttattaattaataaagagaattttt
+> Tir 1 : ataatttattaattaataaagagaattttt | Tir 2 : aaaaagttcctttgtggattattggaaaat | Mutations : [59, 60, 62, 63, 65, 70, 71, 73, 78, 79, 81] | Similarity : 63.333333333333336
+ataatttattaattaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaat
+> Tir 1 : attaataaagagaatttttggttttcagat | Tir 2 : atatgtaaaaaaagaagttttgttataatt | Mutations : [69, 71, 76, 77, 79, 81, 84, 87, 88, 92, 95] | Similarity : 63.333333333333336
+attaataaagagaatttttggttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataatt
+> Tir 1 : gttttcagatttttgaaagttttctatatg | Tir 2 : catatggaatgcactcaaaacgatttaaaa | Mutations : [88, 92, 93, 95, 96, 97, 104, 105, 107, 108, 112] | Similarity : 63.333333333333336
+gttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaa
+> Tir 1 : ttttcagatttttgaaagttttctatatgt | Tir 2 : tcatatggaatgcactcaaaacgatttaaa | Mutations : [92, 93, 95, 96, 97, 104, 105, 107, 108, 112, 118] | Similarity : 63.333333333333336
+ttttcagatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaa
+> Tir 1 : agatttttgaaagttttctatatgtaaaaa | Tir 2 : atttcatttgtaaataattttaaaatttct | Mutations : [97, 98, 102, 106, 109, 111, 114, 116, 117, 119, 123] | Similarity : 63.333333333333336
+agatttttgaaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttct
+> Tir 1 : aaagttttctatatgtaaaaaaagaagttt | Tir 2 : aaatttcatttgtaaataattttaaaattt | Mutations : [106, 110, 111, 112, 115, 116, 117, 119, 121, 125, 129] | Similarity : 63.333333333333336
+aaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaattt
+> Tir 1 : aaagttttctatatgtaaaaaaagaagttt | Tir 2 : aaagttcctttgtggattattggaaaatat | Mutations : [104, 106, 110, 112, 116, 117, 118, 119, 121, 125, 129] | Similarity : 63.333333333333336
+aaagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatat
+> Tir 1 : aagttttctatatgtaaaaaaagaagtttt | Tir 2 : aaaagttcctttgtggattattggaaaata | Mutations : [104, 106, 110, 112, 116, 117, 118, 119, 121, 125, 129] | Similarity : 63.333333333333336
+aagttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaata
+> Tir 1 : agttttctatatgtaaaaaaagaagttttg | Tir 2 : aaaaagttcctttgtggattattggaaaat | Mutations : [106, 110, 112, 116, 117, 118, 119, 121, 125, 129, 134] | Similarity : 63.333333333333336
+agttttctatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaat
+> Tir 1 : tatatgtaaaaaaagaagttttgttataat | Tir 2 : ataattttaaaatttcttttttcatttgat | Mutations : [112, 113, 114, 116, 117, 119, 129, 134, 135, 136, 139] | Similarity : 63.333333333333336
+tatatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgat
+> Tir 1 : atatgtaaaaaaagaagttttgttataatt | Tir 2 : aataattttaaaatttcttttttcatttga | Mutations : [113, 114, 116, 117, 119, 129, 134, 135, 136, 139] | Similarity : 66.66666666666667
+atatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttga
+> Tir 1 : atatgtaaaaaaagaagttttgttataatt | Tir 2 : aattttaaaatttcttttttcatttgattt | Mutations : [114, 117, 118, 121, 122, 126, 130, 131, 132, 134, 138] | Similarity : 63.333333333333336
+atatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgattt
+> Tir 1 : tatgtaaaaaaagaagttttgttataattc | Tir 2 : aaataattttaaaatttcttttttcatttg | Mutations : [114, 116, 117, 119, 129, 134, 135, 136, 139, 143] | Similarity : 66.66666666666667
+tatgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttg
+> Tir 1 : atgtaaaaaaagaagttttgttataattct | Tir 2 : taaataattttaaaatttcttttttcattt | Mutations : [116, 117, 119, 129, 134, 135, 136, 139, 143, 144] | Similarity : 66.66666666666667
+atgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcattt
+> Tir 1 : atgtaaaaaaagaagttttgttataattct | Tir 2 : ataattttaaaatttcttttttcatttgat | Mutations : [117, 118, 121, 122, 126, 130, 131, 132, 134, 138, 143] | Similarity : 63.333333333333336
+atgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgat
+> Tir 1 : tgtaaaaaaagaagttttgttataattcta | Tir 2 : gtaaataattttaaaatttcttttttcatt | Mutations : [116, 117, 119, 129, 134, 135, 136, 139, 143, 144, 145] | Similarity : 63.333333333333336
+tgtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatt
+> Tir 1 : gtaaaaaaagaagttttgttataattctat | Tir 2 : attctattatttcaaattttcttttagtta | Mutations : [117, 118, 120, 121, 129, 130, 135, 136, 142, 143, 144] | Similarity : 63.333333333333336
+gtaaaaaaagaagttttgttataattctatattctattatttcaaattttcttttagtta
+> Tir 1 : gtaaaaaaagaagttttgttataattctat | Tir 2 : tgtaaataattttaaaatttcttttttcat | Mutations : [117, 119, 129, 134, 135, 136, 139, 143, 144, 145, 146] | Similarity : 63.333333333333336
+gtaaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcat
+> Tir 1 : taaaaaaagaagttttgttataattctatt | Tir 2 : aattctattatttcaaattttcttttagtt | Mutations : [118, 120, 121, 129, 130, 135, 136, 142, 143, 144] | Similarity : 66.66666666666667
+taaaaaaagaagttttgttataattctattaattctattatttcaaattttcttttagtt
+> Tir 1 : taaaaaaagaagttttgttataattctatt | Tir 2 : ttgtaaataattttaaaatttcttttttca | Mutations : [119, 129, 134, 135, 136, 139, 143, 144, 145, 146, 147] | Similarity : 63.333333333333336
+taaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttca
+> Tir 1 : aaaaaaagaagttttgttataattctatta | Tir 2 : taattctattatttcaaattttcttttagt | Mutations : [120, 121, 129, 130, 135, 136, 142, 143, 144] | Similarity : 70.0
+aaaaaaagaagttttgttataattctattataattctattatttcaaattttcttttagt
+> Tir 1 : aaaaaaagaagttttgttataattctatta | Tir 2 : tttgtaaataattttaaaatttcttttttc | Mutations : [119, 129, 134, 135, 136, 139, 143, 144, 145, 146, 147] | Similarity : 63.333333333333336
+aaaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttc
+> Tir 1 : aaaaaagaagttttgttataattctattat | Tir 2 : ataattctattatttcaaattttcttttag | Mutations : [120, 121, 129, 130, 135, 136, 142, 143, 144] | Similarity : 70.0
+aaaaaagaagttttgttataattctattatataattctattatttcaaattttcttttag
+> Tir 1 : aaaaaagaagttttgttataattctattat | Tir 2 : atttgtaaataattttaaaatttctttttt | Mutations : [129, 134, 135, 136, 139, 143, 144, 145, 146, 147] | Similarity : 66.66666666666667
+aaaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttctttttt
+> Tir 1 : aaaaagaagttttgttataattctattatt | Tir 2 : tataattctattatttcaaattttctttta | Mutations : [121, 129, 130, 135, 136, 142, 143, 144, 150] | Similarity : 70.0
+aaaaagaagttttgttataattctattatttataattctattatttcaaattttctttta
+> Tir 1 : aaaaagaagttttgttataattctattatt | Tir 2 : catttgtaaataattttaaaatttcttttt | Mutations : [129, 134, 135, 136, 139, 143, 144, 145, 146, 147, 150] | Similarity : 63.333333333333336
+aaaaagaagttttgttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttt
+> Tir 1 : aaaagaagttttgttataattctattattt | Tir 2 : ttataattctattatttcaaattttctttt | Mutations : [129, 130, 135, 136, 142, 143, 144, 150, 151] | Similarity : 70.0
+aaaagaagttttgttataattctattatttttataattctattatttcaaattttctttt
+> Tir 1 : aaagaagttttgttataattctattatttc | Tir 2 : gttataattctattatttcaaattttcttt | Mutations : [129, 130, 135, 136, 142, 143, 144, 150, 151] | Similarity : 70.0
+aaagaagttttgttataattctattatttcgttataattctattatttcaaattttcttt
+> Tir 1 : aagaagttttgttataattctattatttca | Tir 2 : tgttataattctattatttcaaattttctt | Mutations : [129, 130, 135, 136, 142, 143, 144, 150, 151] | Similarity : 70.0
+aagaagttttgttataattctattatttcatgttataattctattatttcaaattttctt
+> Tir 1 : agaagttttgttataattctattatttcaa | Tir 2 : ttgttataattctattatttcaaattttct | Mutations : [129, 130, 135, 136, 142, 143, 144, 150, 151] | Similarity : 70.0
+agaagttttgttataattctattatttcaattgttataattctattatttcaaattttct
+> Tir 1 : gaagttttgttataattctattatttcaaa | Tir 2 : tttgttataattctattatttcaaattttc | Mutations : [129, 130, 135, 136, 142, 143, 144, 150, 151] | Similarity : 70.0
+gaagttttgttataattctattatttcaaatttgttataattctattatttcaaattttc
+> Tir 1 : aagttttgttataattctattatttcaaat | Tir 2 : ttttgttataattctattatttcaaatttt | Mutations : [129, 130, 135, 136, 142, 143, 144, 150, 151, 156] | Similarity : 66.66666666666667
+aagttttgttataattctattatttcaaatttttgttataattctattatttcaaatttt
+> Tir 1 : agttttgttataattctattatttcaaatt | Tir 2 : gttttgttataattctattatttcaaattt | Mutations : [129, 130, 135, 136, 142, 143, 144, 150, 151, 156, 157] | Similarity : 63.333333333333336
+agttttgttataattctattatttcaaattgttttgttataattctattatttcaaattt
+> Tir 1 : ttataattctattatttcaaattttctttt | Tir 2 : aaattcaaccttgtgatgctggaataataa | Mutations : [139, 144, 146, 147, 150, 151, 155, 156, 159, 160, 161] | Similarity : 63.333333333333336
+ttataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaatgttgagttgttcttcttgccacctaacatgacgtcaaaaattcaaccttgtgatgctggaataataa
+> Tir 1 : ataattctattatttcaaattttcttttag | Tir 2 : cttgaagaaaagtttcatttaaagattagt | Mutations : [138, 139, 141, 145, 147, 149, 151, 152, 155, 163, 164] | Similarity : 63.333333333333336
+ataattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagt
+> Tir 1 : aattctattatttcaaattttcttttagtt | Tir 2 : agcttgaagaaaagtttcatttaaagatta | Mutations : [139, 141, 145, 147, 149, 151, 152, 155, 163, 164, 167] | Similarity : 63.333333333333336
+aattctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagatta
+> Tir 1 : attctattatttcaaattttcttttagtta | Tir 2 : tagcttgaagaaaagtttcatttaaagatt | Mutations : [141, 145, 147, 149, 151, 152, 155, 163, 164, 167] | Similarity : 66.66666666666667
+attctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagatt
+> Tir 1 : ttctattatttcaaattttcttttagttat | Tir 2 : atagcttgaagaaaagtttcatttaaagat | Mutations : [141, 145, 147, 149, 151, 152, 155, 163, 164, 167] | Similarity : 66.66666666666667
+ttctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagat
+> Tir 1 : tctattatttcaaattttcttttagttata | Tir 2 : tatagcttgaagaaaagtttcatttaaaga | Mutations : [145, 147, 149, 151, 152, 155, 163, 164, 167] | Similarity : 70.0
+tctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaaga
+> Tir 1 : ctattatttcaaattttcttttagttatag | Tir 2 : gtatagcttgaagaaaagtttcatttaaag | Mutations : [145, 147, 149, 151, 152, 155, 163, 164, 167, 172] | Similarity : 66.66666666666667
+ctattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaag
+> Tir 1 : tattatttcaaattttcttttagttatagt | Tir 2 : agtatagcttgaagaaaagtttcatttaaa | Mutations : [145, 147, 149, 151, 152, 155, 163, 164, 167, 172] | Similarity : 66.66666666666667
+tattatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaa
+> Tir 1 : attatttcaaattttcttttagttatagtt | Tir 2 : aagtatagcttgaagaaaagtttcatttaa | Mutations : [145, 147, 149, 151, 152, 155, 163, 164, 167, 172] | Similarity : 66.66666666666667
+attatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaa
+> Tir 1 : ttatttcaaattttcttttagttatagttc | Tir 2 : aaagtatagcttgaagaaaagtttcattta | Mutations : [147, 149, 151, 152, 155, 163, 164, 167, 172, 175] | Similarity : 66.66666666666667
+ttatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcattta
+> Tir 1 : tatttcaaattttcttttagttatagttcc | Tir 2 : aaaagtatagcttgaagaaaagtttcattt | Mutations : [147, 149, 151, 152, 155, 163, 164, 167, 172, 175, 176] | Similarity : 63.333333333333336
+tatttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcattt
+> Tir 1 : atttcaaattttcttttagttatagttcct | Tir 2 : taaaagtatagcttgaagaaaagtttcatt | Mutations : [149, 151, 152, 155, 163, 164, 167, 172, 175, 176, 177] | Similarity : 63.333333333333336
+atttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatt
+> Tir 1 : ttcaaattttcttttagttatagttcctta | Tir 2 : tttaaaagtatagcttgaagaaaagtttca | Mutations : [151, 152, 155, 163, 164, 167, 172, 175, 176, 177, 178] | Similarity : 63.333333333333336
+ttcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttca
+> Tir 1 : tcaaattttcttttagttatagttccttat | Tir 2 : atttaaaagtatagcttgaagaaaagtttc | Mutations : [151, 152, 155, 163, 164, 167, 172, 175, 176, 177, 178] | Similarity : 63.333333333333336
+tcaaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttc
+> Tir 1 : caaattttcttttagttatagttccttata | Tir 2 : gatttaaaagtatagcttgaagaaaagttt | Mutations : [152, 155, 163, 164, 167, 172, 175, 176, 177, 178, 181] | Similarity : 63.333333333333336
+caaattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagttt
+> Tir 1 : aattttcttttagttatagttccttatatt | Tir 2 : acgatttaaaagtatagcttgaagaaaagt | Mutations : [155, 163, 164, 167, 172, 175, 176, 177, 178, 181, 182] | Similarity : 63.333333333333336
+aattttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagt
+> Tir 1 : attttcttttagttatagttccttatattt | Tir 2 : aacgatttaaaagtatagcttgaagaaaag | Mutations : [155, 163, 164, 167, 172, 175, 176, 177, 178, 181, 182] | Similarity : 63.333333333333336
+attttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaag
+> Tir 1 : ttttcttttagttatagttccttatatttt | Tir 2 : aaacgatttaaaagtatagcttgaagaaaa | Mutations : [163, 164, 167, 172, 175, 176, 177, 178, 181, 182] | Similarity : 66.66666666666667
+ttttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaa
+> Tir 1 : tttcttttagttatagttccttatattttt | Tir 2 : aaaacgatttaaaagtatagcttgaagaaa | Mutations : [163, 164, 167, 172, 175, 176, 177, 178, 181, 182] | Similarity : 66.66666666666667
+tttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaa
+> Tir 1 : ttcttttagttatagttccttatattttta | Tir 2 : caaaacgatttaaaagtatagcttgaagaa | Mutations : [163, 164, 167, 172, 175, 176, 177, 178, 181, 182, 187] | Similarity : 63.333333333333336
+ttcttttagttatagttccttatatttttatagtgtacataacgttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaa
+> Tir 1 : ttttatgaaatttcatttgtaaataatttt | Tir 2 : aaaacgatttaaaagtatagcttgaagaaa | Mutations : [205, 206, 208, 211, 212, 214, 215, 217, 220, 226, 227] | Similarity : 63.333333333333336
+ttttatgaaatttcatttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaa
+> Tir 1 : atgaaatttcatttgtaaataattttaaaa | Tir 2 : tttaaaatttcttttttcatttgatttcct | Mutations : [207, 213, 214, 215, 218, 219, 220, 221, 225, 228, 232] | Similarity : 63.333333333333336
+atgaaatttcatttgtaaataattttaaaatttaaaatttcttttttcatttgatttcct
+> Tir 1 : tgaaatttcatttgtaaataattttaaaat | Tir 2 : atttgtaaataattttaaaatttctttttt | Mutations : [207, 208, 212, 213, 214, 215, 220, 221, 226, 231, 232] | Similarity : 63.333333333333336
+tgaaatttcatttgtaaataattttaaaatatttgtaaataattttaaaatttctttttt
+> Tir 1 : gaaatttcatttgtaaataattttaaaatt | Tir 2 : catttgtaaataattttaaaatttcttttt | Mutations : [208, 212, 213, 214, 215, 220, 221, 226, 231, 232, 237] | Similarity : 63.333333333333336
+gaaatttcatttgtaaataattttaaaattcatttgtaaataattttaaaatttcttttt
+> Tir 1 : gaaatttcatttgtaaataattttaaaatt | Tir 2 : attttaaaatttcttttttcatttgatttc | Mutations : [213, 214, 215, 218, 219, 220, 221, 225, 228, 232, 236] | Similarity : 63.333333333333336
+gaaatttcatttgtaaataattttaaaattattttaaaatttcttttttcatttgatttc
+> Tir 1 : aaatttcatttgtaaataattttaaaattt | Tir 2 : tcatttgtaaataattttaaaatttctttt | Mutations : [212, 213, 214, 215, 220, 221, 226, 231, 232, 237, 238] | Similarity : 63.333333333333336
+aaatttcatttgtaaataattttaaaattttcatttgtaaataattttaaaatttctttt
+> Tir 1 : aaatttcatttgtaaataattttaaaattt | Tir 2 : aattttaaaatttcttttttcatttgattt | Mutations : [213, 214, 215, 218, 219, 220, 221, 225, 228, 232, 236] | Similarity : 63.333333333333336
+aaatttcatttgtaaataattttaaaatttaattttaaaatttcttttttcatttgattt
+> Tir 1 : catttgtaaataattttaaaatttcttttt | Tir 2 : aataagagcttttaagatgcattaccgtag | Mutations : [216, 217, 218, 219, 224, 225, 226, 229, 236, 237, 242] | Similarity : 63.333333333333336
+catttgtaaataattttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaatgttgagttgttcttcttgccacctaacatgacgtcaaaaattcaaccttgtgatgctggaataataagagcttttaagatgcattaccgtag
+> Tir 1 : ttaaaatttcttttttcatttgatttcctt | Tir 2 : aaggaagaaaacaagataaagaaaggttga | Mutations : [231, 234, 235, 243, 245, 246, 247, 248, 251, 252, 253] | Similarity : 63.333333333333336
+ttaaaatttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttga
+> Tir 1 : tttcttttttcatttgatttccttattgtt | Tir 2 : aacttgaaggaagaaaacaagataaagaaa | Mutations : [243, 245, 246, 247, 248, 251, 252, 253, 260, 261, 262] | Similarity : 63.333333333333336
+tttcttttttcatttgatttccttattgtttttgtgtttgatgtagaagttcttatattaagagctacgtagcattagtttagttattatattatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaa
+> Tir 1 : ttatttattcttaattgactaagctacaaa | Tir 2 : tttaaagattagtcaaggtacaatctcaaa | Mutations : [329, 330, 331, 332, 336, 338, 339, 340, 349, 352, 353] | Similarity : 63.333333333333336
+ttatttattcttaattgactaagctacaaaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaa
+> Tir 1 : aaaattttggttttcttctctgtctttgat | Tir 2 : agaaaaggcaaaagagacaatgaaacttgt | Mutations : [356, 359, 363, 364, 367, 371, 372, 374, 377, 382, 383] | Similarity : 63.333333333333336
+aaaattttggttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgt
+> Tir 1 : gttttcttctctgtctttgatccacaccaa | Tir 2 : ttgctacgaaacaacttgaaggaagaaaac | Mutations : [373, 374, 376, 377, 378, 379, 383, 385, 387, 388, 390] | Similarity : 63.333333333333336
+gttttcttctctgtctttgatccacaccaacgatggcgtctcatctcaaaggtgtttcgaaatcaacgatgacagatcatatacgtaaagaattatgtgagtacaagagatatcatatggaatgcactcaaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaac
+> Tir 1 : atgacagatcatatacgtaaagaattatgt | Tir 2 : aaagaattatgtgagtacaagagatatcat | Mutations : [436, 438, 439, 442, 444, 448, 449, 451, 453, 458, 460] | Similarity : 63.333333333333336
+atgacagatcatatacgtaaagaattatgtaaagaattatgtgagtacaagagatatcat
+> Tir 1 : tgagtacaagagatatcatatggaatgcac | Tir 2 : gtacaagagatatcatatggaatgcactca | Mutations : [466, 469, 470, 471, 472, 477, 482, 483, 484, 485, 488] | Similarity : 63.333333333333336
+tgagtacaagagatatcatatggaatgcacgtacaagagatatcatatggaatgcactca
+> Tir 1 : gagtacaagagatatcatatggaatgcact | Tir 2 : agtacaagagatatcatatggaatgcactc | Mutations : [466, 469, 470, 471, 472, 477, 482, 483, 484, 485, 488] | Similarity : 63.333333333333336
+gagtacaagagatatcatatggaatgcactagtacaagagatatcatatggaatgcactc
+> Tir 1 : agatatcatatggaatgcactcaaaacgat | Tir 2 : atcatatggaatgcactcaaaacgatttaa | Mutations : [471, 472, 474, 478, 480, 482, 485, 490, 493, 495, 497] | Similarity : 63.333333333333336
+agatatcatatggaatgcactcaaaacgatatcatatggaatgcactcaaaacgatttaa
+> Tir 1 : gatatcatatggaatgcactcaaaacgatt | Tir 2 : tatcatatggaatgcactcaaaacgattta | Mutations : [472, 474, 478, 480, 482, 485, 490, 493, 495, 497, 501] | Similarity : 63.333333333333336
+gatatcatatggaatgcactcaaaacgatttatcatatggaatgcactcaaaacgattta
+> Tir 1 : caaaacgatttaaaagtatagcttgaagaa | Tir 2 : ttcgacgagagacaatattaaattgttttc | Mutations : [492, 498, 505, 507, 509, 511, 512, 515, 517, 518] | Similarity : 66.66666666666667
+caaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaatgttgagttgttcttcttgccacctaacatgacgtcaaaaattcaaccttgtgatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctcggcttggacaattaatgttcgacgagagacaatattaaattgttttc
+> Tir 1 : aaaacgatttaaaagtatagcttgaagaaa | Tir 2 : gttcgacgagagacaatattaaattgtttt | Mutations : [498, 505, 507, 509, 511, 512, 515, 517, 518, 522] | Similarity : 66.66666666666667
+aaaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaatgttgagttgttcttcttgccacctaacatgacgtcaaaaattcaaccttgtgatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctcggcttggacaattaatgttcgacgagagacaatattaaattgtttt
+> Tir 1 : aaacgatttaaaagtatagcttgaagaaaa | Tir 2 : tgttcgacgagagacaatattaaattgttt | Mutations : [498, 505, 507, 509, 511, 512, 515, 517, 518, 522] | Similarity : 66.66666666666667
+aaacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaatgttgagttgttcttcttgccacctaacatgacgtcaaaaattcaaccttgtgatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctcggcttggacaattaatgttcgacgagagacaatattaaattgttt
+> Tir 1 : aacgatttaaaagtatagcttgaagaaaag | Tir 2 : atgttcgacgagagacaatattaaattgtt | Mutations : [498, 505, 507, 509, 511, 512, 515, 517, 518, 522, 524] | Similarity : 63.333333333333336
+aacgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaatgttgagttgttcttcttgccacctaacatgacgtcaaaaattcaaccttgtgatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctcggcttggacaattaatgttcgacgagagacaatattaaattgtt
+> Tir 1 : acgatttaaaagtatagcttgaagaaaagt | Tir 2 : aatgttcgacgagagacaatattaaattgt | Mutations : [498, 505, 507, 509, 511, 512, 515, 517, 518, 522, 524] | Similarity : 63.333333333333336
+acgatttaaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaatgttgagttgttcttcttgccacctaacatgacgtcaaaaattcaaccttgtgatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctcggcttggacaattaatgttcgacgagagacaatattaaattgt
+> Tir 1 : taaaagtatagcttgaagaaaagtttcatt | Tir 2 : aatgaaacttgtataccctctacaagattc | Mutations : [502, 505, 506, 507, 509, 513, 514, 515, 517, 519, 521] | Similarity : 63.333333333333336
+taaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattc
+> Tir 1 : aaaagtatagcttgaagaaaagtttcattt | Tir 2 : caatgaaacttgtataccctctacaagatt | Mutations : [505, 506, 507, 509, 513, 514, 515, 517, 519, 521, 532] | Similarity : 63.333333333333336
+aaaagtatagcttgaagaaaagtttcatttaaagattagtcaaggtacaatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagatt
+> Tir 1 : aatctcaaacacactcaaacattctgctga | Tir 2 : tttgaagaatatatgcgttggtttgataac | Mutations : [551, 552, 554, 561, 562, 565, 568, 570, 576, 578, 579] | Similarity : 63.333333333333336
+aatctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataac
+> Tir 1 : tctcaaacacactcaaacattctgctgagt | Tir 2 : tttttgaagaatatatgcgttggtttgata | Mutations : [554, 561, 562, 565, 568, 570, 576, 578, 579, 581, 582] | Similarity : 63.333333333333336
+tctcaaacacactcaaacattctgctgagtatctttcaaccaacctaggaaaaggaaaagctatcaagcgacacaaatcagcaaaatttccagagatggaaaaggttgtttttgagtggttcctccaacaccaaagtcatgtgaatatgaccggagaactaatattagaaaaggcaaaagagacaatgaaacttgtataccctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgata
+> Tir 1 : agacaatgaaacttgtataccctctacaag | Tir 2 : cttgtataccctctacaagattccgtgaag | Mutations : [733, 734, 735, 738, 739, 743, 750, 752, 753, 754, 756] | Similarity : 63.333333333333336
+agacaatgaaacttgtataccctctacaagcttgtataccctctacaagattccgtgaag
+> Tir 1 : gacaatgaaacttgtataccctctacaaga | Tir 2 : acttgtataccctctacaagattccgtgaa | Mutations : [734, 735, 738, 739, 743, 750, 752, 753, 754, 756, 763] | Similarity : 63.333333333333336
+gacaatgaaacttgtataccctctacaagaacttgtataccctctacaagattccgtgaa
+> Tir 1 : caatgaaacttgtataccctctacaagatt | Tir 2 : aaacttgtataccctctacaagattccgtg | Mutations : [738, 739, 743, 750, 752, 753, 754, 756, 763] | Similarity : 70.0
+caatgaaacttgtataccctctacaagattaaacttgtataccctctacaagattccgtg
+> Tir 1 : aatgaaacttgtataccctctacaagattc | Tir 2 : gaaacttgtataccctctacaagattccgt | Mutations : [738, 739, 743, 750, 752, 753, 754, 756, 763] | Similarity : 70.0
+aatgaaacttgtataccctctacaagattcgaaacttgtataccctctacaagattccgt
+> Tir 1 : atgaaacttgtataccctctacaagattcc | Tir 2 : tgaaacttgtataccctctacaagattccg | Mutations : [738, 739, 743, 750, 752, 753, 754, 756, 763, 767] | Similarity : 66.66666666666667
+atgaaacttgtataccctctacaagattcctgaaacttgtataccctctacaagattccg
+> Tir 1 : accctctacaagattccgtgaagcaatttt | Tir 2 : aagattccgtgaagcaattttctcaaggat | Mutations : [752, 756, 757, 759, 762, 766, 768, 770, 772, 774, 778] | Similarity : 63.333333333333336
+accctctacaagattccgtgaagcaattttaagattccgtgaagcaattttctcaaggat
+> Tir 1 : cctctacaagattccgtgaagcaattttct | Tir 2 : acaagattccgtgaagcaattttctcaagg | Mutations : [756, 757, 759, 762, 766, 768, 770, 772, 774, 778, 781] | Similarity : 63.333333333333336
+cctctacaagattccgtgaagcaattttctacaagattccgtgaagcaattttctcaagg
+> Tir 1 : ctctacaagattccgtgaagcaattttctc | Tir 2 : gaaaaagttcctttgtggattattggaaaa | Mutations : [754, 756, 758, 762, 764, 768, 769, 770, 774, 777, 781] | Similarity : 63.333333333333336
+ctctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaaa
+> Tir 1 : tctacaagattccgtgaagcaattttctca | Tir 2 : tgaaaaagttcctttgtggattattggaaa | Mutations : [756, 758, 762, 764, 768, 769, 770, 774, 777, 781] | Similarity : 66.66666666666667
+tctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaaa
+> Tir 1 : ctacaagattccgtgaagcaattttctcaa | Tir 2 : ctgaaaaagttcctttgtggattattggaa | Mutations : [756, 758, 762, 764, 768, 769, 770, 774, 777, 781, 785] | Similarity : 63.333333333333336
+ctacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattggaa
+> Tir 1 : tacaagattccgtgaagcaattttctcaag | Tir 2 : tctgaaaaagttcctttgtggattattgga | Mutations : [758, 762, 764, 768, 769, 770, 774, 777, 781, 785, 786] | Similarity : 63.333333333333336
+tacaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattgga
+> Tir 1 : acaagattccgtgaagcaattttctcaagg | Tir 2 : ctctgaaaaagttcctttgtggattattgg | Mutations : [758, 762, 764, 768, 769, 770, 774, 777, 781, 785, 786] | Similarity : 63.333333333333336
+acaagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattgg
+> Tir 1 : caagattccgtgaagcaattttctcaagga | Tir 2 : gctctgaaaaagttcctttgtggattattg | Mutations : [762, 764, 768, 769, 770, 774, 777, 781, 785, 786, 788] | Similarity : 63.333333333333336
+caagattccgtgaagcaattttctcaaggatggcttgaaaagtttaagttacgacatggtatcaagtcttttcgtcgttttggagagagtggttctgttgatacacatgacatggaaaagaagctggaagttatcagggaaaaaatagatcaatttccattgaaagatgtttttaatatggacgaaactggtttgttttacaagttacaagctgatcattctcttgctacgaaacaacttgaaggaagaaaacaagataaagaaaggttgacagttgttatttgctgcaatgcagatggctctgaaaaagttcctttgtggattattg
+> Tir 1 : attggaaaatatgcaaaaccacgttgtttt | Tir 2 : aaaaccacgttgttttaagaatgtcaacat | Mutations : [1085, 1086, 1087, 1088, 1090, 1093, 1094, 1095, 1096, 1102, 1107] | Similarity : 63.333333333333336
+attggaaaatatgcaaaaccacgttgttttaaaaccacgttgttttaagaatgtcaacat
+> Tir 1 : aaaatatgcaaaaccacgttgttttaagaa | Tir 2 : ttcttaaatatatatatatatatatatttt | Mutations : [1095, 1096, 1098, 1100, 1101, 1102, 1104, 1105, 1107, 1108, 1109] | Similarity : 63.333333333333336
+aaaatatgcaaaaccacgttgttttaagaatgtcaacatgagtggcttgaattgtgagtatcggtccaacaaaagggcttggatgacaagtgtgatttttgaagaatatatgcgttggtttgataacaagatgcatggtagaagagttttgtttgtggtagataatggtccagcacatccaaaaattattgaagggttacaaaatgttgagttgttcttcttgccacctaacatgacgtcaaaaattcaaccttgtgatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctcggcttggacaattaatgttcgacgagagacaatattaaattgttttcgacactgcaaaattcattctgattgatgatgttattaacaatctaggctatcgcaatagaatggatgtcaatagtctacttgattatcctggtgaaaatgatgcatgttcagaagttcagactttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatatttt
+> Tir 1 : aaatatgcaaaaccacgttgttttaagaat | Tir 2 : atatgcaaaaccacgttgttttaagaatgt | Mutations : [1090, 1093, 1094, 1095, 1096, 1102, 1107, 1113, 1114, 1115, 1116] | Similarity : 63.333333333333336
+aaatatgcaaaaccacgttgttttaagaatatatgcaaaaccacgttgttttaagaatgt
+> Tir 1 : agttttgtttgtggtagataatggtccagc | Tir 2 : ggtagataatggtccagcacatccaaaaat | Mutations : [1233, 1239, 1240, 1245, 1247, 1250, 1251, 1254, 1255, 1258, 1260] | Similarity : 63.333333333333336
+agttttgtttgtggtagataatggtccagcggtagataatggtccagcacatccaaaaat
+> Tir 1 : gttttgtttgtggtagataatggtccagca | Tir 2 : tggtagataatggtccagcacatccaaaaa | Mutations : [1233, 1239, 1240, 1245, 1247, 1250, 1251, 1254, 1255, 1258, 1260] | Similarity : 63.333333333333336
+gttttgtttgtggtagataatggtccagcatggtagataatggtccagcacatccaaaaa
+> Tir 1 : ttttgtttgtggtagataatggtccagcac | Tir 2 : gtggtagataatggtccagcacatccaaaa | Mutations : [1239, 1240, 1245, 1247, 1250, 1251, 1254, 1255, 1258, 1260] | Similarity : 66.66666666666667
+ttttgtttgtggtagataatggtccagcacgtggtagataatggtccagcacatccaaaa
+> Tir 1 : tttgtttgtggtagataatggtccagcaca | Tir 2 : tgtggtagataatggtccagcacatccaaa | Mutations : [1239, 1240, 1245, 1247, 1250, 1251, 1254, 1255, 1258, 1260] | Similarity : 66.66666666666667
+tttgtttgtggtagataatggtccagcacatgtggtagataatggtccagcacatccaaa
+> Tir 1 : ttgtttgtggtagataatggtccagcacat | Tir 2 : ttgtggtagataatggtccagcacatccaa | Mutations : [1239, 1240, 1245, 1247, 1250, 1251, 1254, 1255, 1258, 1260, 1265] | Similarity : 63.333333333333336
+ttgtttgtggtagataatggtccagcacatttgtggtagataatggtccagcacatccaa
+> Tir 1 : gtgatgctggaataataagagcttttaaga | Tir 2 : ttttagatgctattagttttgcagtctcgg | Mutations : [1342, 1343, 1346, 1347, 1351, 1354, 1356, 1360, 1364, 1366, 1370] | Similarity : 63.333333333333336
+gtgatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctcgg
+> Tir 1 : tgatgctggaataataagagcttttaagat | Tir 2 : gttttagatgctattagttttgcagtctcg | Mutations : [1343, 1346, 1347, 1351, 1354, 1356, 1360, 1364, 1366, 1370, 1372] | Similarity : 63.333333333333336
+tgatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctcg
+> Tir 1 : gatgctggaataataagagcttttaagatg | Tir 2 : tgttttagatgctattagttttgcagtctc | Mutations : [1346, 1347, 1351, 1354, 1356, 1360, 1364, 1366, 1370, 1372, 1373] | Similarity : 63.333333333333336
+gatgctggaataataagagcttttaagatgcattaccgtaggagattttaccgtgagattttagaaggctatgagttgggacaatctgatccaggtacgatcaatgttttagatgctattagttttgcagtctc
+> Tir 1 : cgatcaatgttttagatgctattagttttg | Tir 2 : caaaaaagttattatcttattaatttatcg | Mutations : [1445, 1449, 1450, 1451, 1453, 1458, 1459, 1462, 1463, 1464, 1465] | Similarity : 63.333333333333336
+cgatcaatgttttagatgctattagttttgcagtctcggcttggacaattaatgttcgacgagagacaatattaaattgttttcgacactgcaaaattcattctgattgatgatgttattaacaatctaggctatcgcaatagaatggatgtcaatagtctacttgattatcctggtgaaaatgatgcatgttcagaagttcagactttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattgataggactatattttacctagggttttcaaaaaagttattatcttattaatttatcg
+> Tir 1 : aattcattctgattgatgatgttattaaca | Tir 2 : tgttcagaagttcagactttagaagaaatt | Mutations : [1539, 1540, 1545, 1547, 1548, 1549, 1550, 1554, 1555, 1558, 1560] | Similarity : 63.333333333333336
+aattcattctgattgatgatgttattaacaatctaggctatcgcaatagaatggatgtcaatagtctacttgattatcctggtgaaaatgatgcatgttcagaagttcagactttagaagaaatt
+> Tir 1 : aatagtctacttgattatcctggtgaaaat | Tir 2 : attttacctagggttttcaaaaaagttatt | Mutations : [1598, 1599, 1600, 1602, 1603, 1608, 1609, 1611, 1615, 1617, 1618] | Similarity : 63.333333333333336
+aatagtctacttgattatcctggtgaaaatgatgcatgttcagaagttcagactttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattgataggactatattttacctagggttttcaaaaaagttatt
+> Tir 1 : tcagactttagaagaaattgatgcatctat | Tir 2 : atatatatatatattttttttatagaatta | Mutations : [1642, 1644, 1645, 1648, 1651, 1654, 1659, 1660, 1663, 1664, 1667] | Similarity : 63.333333333333336
+tcagactttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaatta
+> Tir 1 : agactttagaagaaattgatgcatctatct | Tir 2 : atatatatatatatattttttttatagaat | Mutations : [1644, 1645, 1648, 1651, 1654, 1659, 1660, 1663, 1664, 1667, 1671] | Similarity : 63.333333333333336
+agactttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaat
+> Tir 1 : actttagaagaaattgatgcatctatcttt | Tir 2 : atatatatatatatatattttttttataga | Mutations : [1645, 1648, 1651, 1654, 1659, 1660, 1663, 1664, 1667, 1671, 1673] | Similarity : 63.333333333333336
+actttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttataga
+> Tir 1 : ctttagaagaaattgatgcatctatcttta | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1648, 1651, 1654, 1659, 1660, 1663, 1664, 1667, 1671, 1673] | Similarity : 66.66666666666667
+ctttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatag
+> Tir 1 : tttagaagaaattgatgcatctatctttaa | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1648, 1651, 1654, 1659, 1660, 1663, 1664, 1667, 1671, 1673, 1676] | Similarity : 63.333333333333336
+tttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttata
+> Tir 1 : ttagaagaaattgatgcatctatctttaat | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1648, 1651, 1654, 1659, 1660, 1663, 1664, 1667, 1671, 1673, 1676] | Similarity : 63.333333333333336
+ttagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttat
+> Tir 1 : tagaagaaattgatgcatctatctttaatg | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1651, 1654, 1659, 1660, 1663, 1664, 1667, 1671, 1673, 1676, 1678] | Similarity : 63.333333333333336
+tagaagaaattgatgcatctatctttaatggtgatgatgaagttgaagatgatattgcgctacctttagaaccaattacacgtaaggaagcaattatcacatctagaacacttcataacttttggatgcgatttgataagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatatttttttta
+> Tir 1 : aagacaaccccagaaatttttaatgcagta | Tir 2 : tattatcttattaatttatcgatttgtatt | Mutations : [1788, 1793, 1794, 1796, 1798, 1804, 1805, 1809, 1810, 1811, 1813] | Similarity : 63.333333333333336
+aagacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattgataggactatattttacctagggttttcaaaaaagttattatcttattaatttatcgatttgtatt
+> Tir 1 : agacaaccccagaaatttttaatgcagtaa | Tir 2 : ttattatcttattaatttatcgatttgtat | Mutations : [1788, 1793, 1794, 1796, 1798, 1804, 1805, 1809, 1810, 1811, 1813] | Similarity : 63.333333333333336
+agacaaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattgataggactatattttacctagggttttcaaaaaagttattatcttattaatttatcgatttgtat
+> Tir 1 : caaccccagaaatttttaatgcagtaagga | Tir 2 : tttttatagaattattaatttatgatattg | Mutations : [1793, 1794, 1795, 1798, 1804, 1805, 1810, 1812, 1813, 1817, 1818] | Similarity : 63.333333333333336
+caaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattg
+> Tir 1 : aaccccagaaatttttaatgcagtaaggaa | Tir 2 : ttttttatagaattattaatttatgatatt | Mutations : [1793, 1794, 1795, 1798, 1804, 1805, 1810, 1812, 1813, 1817, 1818] | Similarity : 63.333333333333336
+aaccccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatatt
+> Tir 1 : cccagaaatttttaatgcagtaaggaagat | Tir 2 : attttttttatagaattattaatttatgat | Mutations : [1794, 1795, 1798, 1804, 1805, 1810, 1812, 1813, 1817, 1818, 1821] | Similarity : 63.333333333333336
+cccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgat
+> Tir 1 : ccagaaatttttaatgcagtaaggaagatt | Tir 2 : tattttttttatagaattattaatttatga | Mutations : [1795, 1798, 1804, 1805, 1810, 1812, 1813, 1817, 1818, 1821, 1824] | Similarity : 63.333333333333336
+ccagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatga
+> Tir 1 : cagaaatttttaatgcagtaaggaagatta | Tir 2 : atattttttttatagaattattaatttatg | Mutations : [1798, 1804, 1805, 1810, 1812, 1813, 1817, 1818, 1821, 1824, 1825] | Similarity : 63.333333333333336
+cagaaatttttaatgcagtaaggaagattagagatgaactccaaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatg
+> Tir 1 : caaaaagaatgcaagttcaagaataagcaa | Tir 2 : ttattaatttatcgatttgtattgtttttt | Mutations : [1837, 1843, 1847, 1851, 1853, 1854, 1856, 1857, 1861, 1863, 1864] | Similarity : 63.333333333333336
+caaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattgataggactatattttacctagggttttcaaaaaagttattatcttattaatttatcgatttgtattgtttttt
+> Tir 1 : aaaaagaatgcaagttcaagaataagcaaa | Tir 2 : cttattaatttatcgatttgtattgttttt | Mutations : [1843, 1847, 1851, 1853, 1854, 1856, 1857, 1861, 1863, 1864, 1867] | Similarity : 63.333333333333336
+aaaaagaatgcaagttcaagaataagcaaacaacaatagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattgataggactatattttacctagggttttcaaaaaagttattatcttattaatttatcgatttgtattgttttt
+> Tir 1 : acaacaatagagtcatatttcactaaattt | Tir 2 : aaattttcttaaatatatatatatatatat | Mutations : [1868, 1870, 1871, 1872, 1876, 1878, 1879, 1880, 1887, 1889, 1890] | Similarity : 63.333333333333336
+acaacaatagagtcatatttcactaaatttaaattttcttaaatatatatatatatatat
+> Tir 1 : aatagagtcatatttcactaaattttctta | Tir 2 : tcactaaattttcttaaatatatatatata | Mutations : [1872, 1876, 1878, 1879, 1880, 1887, 1889, 1890, 1897, 1898, 1900] | Similarity : 63.333333333333336
+aatagagtcatatttcactaaattttcttatcactaaattttcttaaatatatatatata
+> Tir 1 : atagagtcatatttcactaaattttcttaa | Tir 2 : ttcactaaattttcttaaatatatatatat | Mutations : [1876, 1878, 1879, 1880, 1887, 1889, 1890, 1897, 1898, 1900] | Similarity : 66.66666666666667
+atagagtcatatttcactaaattttcttaattcactaaattttcttaaatatatatatat
+> Tir 1 : atagagtcatatttcactaaattttcttaa | Tir 2 : ttcaaaaaagttattatcttattaatttat | Mutations : [1876, 1878, 1880, 1884, 1885, 1886, 1887, 1889, 1893, 1898, 1900] | Similarity : 63.333333333333336
+atagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattgataggactatattttacctagggttttcaaaaaagttattatcttattaatttat
+> Tir 1 : tagagtcatatttcactaaattttcttaaa | Tir 2 : tttcactaaattttcttaaatatatatata | Mutations : [1876, 1878, 1879, 1880, 1887, 1889, 1890, 1897, 1898, 1900] | Similarity : 66.66666666666667
+tagagtcatatttcactaaattttcttaaatttcactaaattttcttaaatatatatata
+> Tir 1 : tagagtcatatttcactaaattttcttaaa | Tir 2 : tttcaaaaaagttattatcttattaattta | Mutations : [1876, 1878, 1880, 1884, 1885, 1886, 1887, 1889, 1893, 1898, 1900] | Similarity : 63.333333333333336
+tagagtcatatttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattgataggactatattttacctagggttttcaaaaaagttattatcttattaattta
+> Tir 1 : agtcatatttcactaaattttcttaaatat | Tir 2 : atatttcactaaattttcttaaatatatat | Mutations : [1878, 1879, 1880, 1887, 1889, 1890, 1897, 1898, 1900] | Similarity : 70.0
+agtcatatttcactaaattttcttaaatatatatttcactaaattttcttaaatatatat
+> Tir 1 : gtcatatttcactaaattttcttaaatata | Tir 2 : catatttcactaaattttcttaaatatata | Mutations : [1878, 1879, 1880, 1887, 1889, 1890, 1897, 1898, 1900, 1907] | Similarity : 66.66666666666667
+gtcatatttcactaaattttcttaaatatacatatttcactaaattttcttaaatatata
+> Tir 1 : atttcactaaattttcttaaatatatatat | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1883, 1884, 1886, 1887, 1889, 1890, 1895, 1897, 1898, 1899, 1902] | Similarity : 63.333333333333336
+atttcactaaattttcttaaatatatatatatatatatatatatatatattttttttata
+> Tir 1 : atttcactaaattttcttaaatatatatat | Tir 2 : atatatatatatatattttttttatagaat | Mutations : [1886, 1887, 1889, 1890, 1894, 1895, 1896, 1897, 1898, 1899, 1902] | Similarity : 63.333333333333336
+atttcactaaattttcttaaatatatatatatatatatatatatattttttttatagaat
+> Tir 1 : tttcactaaattttcttaaatatatatata | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1884, 1886, 1887, 1889, 1890, 1895, 1897, 1898, 1899, 1902, 1913] | Similarity : 63.333333333333336
+tttcactaaattttcttaaatatatatataaatatatatatatatatatattttttttat
+> Tir 1 : tttcactaaattttcttaaatatatatata | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1884, 1886, 1887, 1889, 1890, 1894, 1895, 1897, 1898, 1899, 1902] | Similarity : 63.333333333333336
+tttcactaaattttcttaaatatatatatatatatatatatatatatattttttttatag
+> Tir 1 : tttcactaaattttcttaaatatatatata | Tir 2 : tatatatatatatatattttttttatagaa | Mutations : [1886, 1887, 1889, 1890, 1894, 1895, 1896, 1897, 1898, 1899, 1902] | Similarity : 63.333333333333336
+tttcactaaattttcttaaatatatatatatatatatatatatatattttttttatagaa
+> Tir 1 : ttcactaaattttcttaaatatatatatat | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1886, 1887, 1889, 1890, 1895, 1897, 1898, 1899, 1902, 1913] | Similarity : 66.66666666666667
+ttcactaaattttcttaaatatatatatataaatatatatatatatatatatttttttta
+> Tir 1 : ttcactaaattttcttaaatatatatatat | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1886, 1887, 1889, 1890, 1894, 1895, 1897, 1898, 1899, 1902] | Similarity : 66.66666666666667
+ttcactaaattttcttaaatatatatatatatatatatatatatatatattttttttata
+> Tir 1 : ttcactaaattttcttaaatatatatatat | Tir 2 : atatatatattttttttatagaattattaa | Mutations : [1887, 1889, 1890, 1892, 1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 63.333333333333336
+ttcactaaattttcttaaatatatatatatatatatatattttttttatagaattattaa
+> Tir 1 : ttcactaaattttcttaaatatatatatat | Tir 2 : atatattttttttatagaattattaattta | Mutations : [1886, 1887, 1889, 1893, 1894, 1895, 1900, 1901, 1904, 1906, 1908] | Similarity : 63.333333333333336
+ttcactaaattttcttaaatatatatatatatatatattttttttatagaattattaattta
+> Tir 1 : tcactaaattttcttaaatatatatatata | Tir 2 : taaatatatatatatatatatatttttttt | Mutations : [1886, 1887, 1889, 1890, 1895, 1897, 1898, 1899, 1902, 1913] | Similarity : 66.66666666666667
+tcactaaattttcttaaatatatatatatataaatatatatatatatatatatttttttt
+> Tir 1 : tcactaaattttcttaaatatatatatata | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1886, 1887, 1889, 1890, 1894, 1895, 1897, 1898, 1899, 1902, 1915] | Similarity : 63.333333333333336
+tcactaaattttcttaaatatatatatataaatatatatatatatatatattttttttat
+> Tir 1 : tcactaaattttcttaaatatatatatata | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1886, 1887, 1889, 1890, 1894, 1895, 1896, 1897, 1898, 1899, 1902] | Similarity : 63.333333333333336
+tcactaaattttcttaaatatatatatatatatatatatatatatatattttttttatag
+> Tir 1 : tcactaaattttcttaaatatatatatata | Tir 2 : tatatatatattttttttatagaattatta | Mutations : [1887, 1889, 1890, 1892, 1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 63.333333333333336
+tcactaaattttcttaaatatatatatatatatatatatattttttttatagaattatta
+> Tir 1 : tcactaaattttcttaaatatatatatata | Tir 2 : tatatattttttttatagaattattaattt | Mutations : [1886, 1887, 1889, 1893, 1894, 1895, 1900, 1901, 1904, 1906, 1908] | Similarity : 63.333333333333336
+tcactaaattttcttaaatatatatatatatatatattttttttatagaattattaattt
+> Tir 1 : cactaaattttcttaaatatatatatatat | Tir 2 : ttaaatatatatatatatatatattttttt | Mutations : [1887, 1889, 1890, 1895, 1897, 1898, 1899, 1902, 1913, 1916] | Similarity : 66.66666666666667
+cactaaattttcttaaatatatatatatatttaaatatatatatatatatatattttttt
+> Tir 1 : cactaaattttcttaaatatatatatatat | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1887, 1889, 1890, 1894, 1895, 1897, 1898, 1899, 1902, 1915] | Similarity : 66.66666666666667
+cactaaattttcttaaatatatatatatataaatatatatatatatatatatttttttta
+> Tir 1 : cactaaattttcttaaatatatatatatat | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1887, 1889, 1890, 1894, 1895, 1896, 1897, 1898, 1899, 1902] | Similarity : 66.66666666666667
+cactaaattttcttaaatatatatatatatatatatatatatatatatattttttttata
+> Tir 1 : cactaaattttcttaaatatatatatatat | Tir 2 : atatatatatattttttttatagaattatt | Mutations : [1887, 1889, 1890, 1892, 1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 63.333333333333336
+cactaaattttcttaaatatatatatatatatatatatatattttttttatagaattatt
+> Tir 1 : cactaaattttcttaaatatatatatatat | Tir 2 : atatatattttttttatagaattattaatt | Mutations : [1887, 1889, 1893, 1894, 1895, 1900, 1901, 1904, 1906, 1908] | Similarity : 66.66666666666667
+cactaaattttcttaaatatatatatatatatatatattttttttatagaattattaatt
+> Tir 1 : actaaattttcttaaatatatatatatata | Tir 2 : cttaaatatatatatatatatatatttttt | Mutations : [1889, 1890, 1895, 1897, 1898, 1899, 1902, 1913, 1916, 1917] | Similarity : 66.66666666666667
+actaaattttcttaaatatatatatatatacttaaatatatatatatatatatatttttt
+> Tir 1 : actaaattttcttaaatatatatatatata | Tir 2 : taaatatatatatatatatatatttttttt | Mutations : [1889, 1890, 1894, 1895, 1897, 1898, 1899, 1902, 1915] | Similarity : 70.0
+actaaattttcttaaatatatatatatatataaatatatatatatatatatatttttttt
+> Tir 1 : actaaattttcttaaatatatatatatata | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1889, 1890, 1894, 1895, 1896, 1897, 1898, 1899, 1902, 1917] | Similarity : 66.66666666666667
+actaaattttcttaaatatatatatatataaatatatatatatatatatattttttttat
+> Tir 1 : actaaattttcttaaatatatatatatata | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1888, 1889, 1890, 1891, 1894, 1895, 1896, 1897, 1898, 1899, 1902] | Similarity : 63.333333333333336
+actaaattttcttaaatatatatatatatatatatatatatatatatattttttttatag
+> Tir 1 : actaaattttcttaaatatatatatatata | Tir 2 : tatatatatatatattttttttatagaatt | Mutations : [1889, 1891, 1892, 1893, 1894, 1896, 1897, 1898, 1899, 1900] | Similarity : 66.66666666666667
+actaaattttcttaaatatatatatatatatatatatatatatattttttttatagaatt
+> Tir 1 : actaaattttcttaaatatatatatatata | Tir 2 : tatatatatatattttttttatagaattat | Mutations : [1889, 1890, 1892, 1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 66.66666666666667
+actaaattttcttaaatatatatatatatatatatatatatattttttttatagaattat
+> Tir 1 : actaaattttcttaaatatatatatatata | Tir 2 : tatatatatattttttttatagaattatta | Mutations : [1888, 1889, 1890, 1891, 1896, 1898, 1900, 1904, 1906] | Similarity : 70.0
+actaaattttcttaaatatatatatatatatatatatatattttttttatagaattatta
+> Tir 1 : actaaattttcttaaatatatatatatata | Tir 2 : tatatatattttttttatagaattattaat | Mutations : [1889, 1893, 1894, 1895, 1900, 1901, 1904, 1906, 1908] | Similarity : 70.0
+actaaattttcttaaatatatatatatatatatatatattttttttatagaattattaat
+> Tir 1 : ctaaattttcttaaatatatatatatatat | Tir 2 : tcttaaatatatatatatatatatattttt | Mutations : [1889, 1890, 1895, 1897, 1898, 1899, 1902, 1913, 1916, 1917, 1918] | Similarity : 63.333333333333336
+ctaaattttcttaaatatatatatatatattcttaaatatatatatatatatatattttt
+> Tir 1 : ctaaattttcttaaatatatatatatatat | Tir 2 : ttaaatatatatatatatatatattttttt | Mutations : [1889, 1890, 1894, 1895, 1897, 1898, 1899, 1902, 1915, 1918] | Similarity : 66.66666666666667
+ctaaattttcttaaatatatatatatatatttaaatatatatatatatatatattttttt
+> Tir 1 : ctaaattttcttaaatatatatatatatat | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1889, 1890, 1894, 1895, 1896, 1897, 1898, 1899, 1902, 1917] | Similarity : 66.66666666666667
+ctaaattttcttaaatatatatatatatataaatatatatatatatatatatttttttta
+> Tir 1 : ctaaattttcttaaatatatatatatatat | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1889, 1890, 1891, 1894, 1895, 1896, 1897, 1898, 1899, 1902] | Similarity : 66.66666666666667
+ctaaattttcttaaatatatatatatatatatatatatatatatatatattttttttata
+> Tir 1 : ctaaattttcttaaatatatatatatatat | Tir 2 : atatatatatatatattttttttatagaat | Mutations : [1889, 1891, 1892, 1893, 1894, 1896, 1897, 1898, 1899, 1900] | Similarity : 66.66666666666667
+ctaaattttcttaaatatatatatatatatatatatatatatatattttttttatagaat
+> Tir 1 : ctaaattttcttaaatatatatatatatat | Tir 2 : atatatatatatattttttttatagaatta | Mutations : [1889, 1890, 1892, 1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 66.66666666666667
+ctaaattttcttaaatatatatatatatatatatatatatatattttttttatagaatta
+> Tir 1 : ctaaattttcttaaatatatatatatatat | Tir 2 : atatatatatattttttttatagaattatt | Mutations : [1889, 1890, 1891, 1896, 1898, 1900, 1904, 1906] | Similarity : 73.33333333333333
+ctaaattttcttaaatatatatatatatatatatatatatattttttttatagaattatt
+> Tir 1 : ctaaattttcttaaatatatatatatatat | Tir 2 : atatatatattttttttatagaattattaa | Mutations : [1889, 1893, 1894, 1895, 1900, 1901, 1904, 1906, 1908] | Similarity : 70.0
+ctaaattttcttaaatatatatatatatatatatatatattttttttatagaattattaa
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : ttcttaaatatatatatatatatatatttt | Mutations : [1890, 1895, 1897, 1898, 1899, 1902, 1913, 1916, 1917, 1918] | Similarity : 66.66666666666667
+taaattttcttaaatatatatatatatatattcttaaatatatatatatatatatatttt
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : cttaaatatatatatatatatatatttttt | Mutations : [1890, 1894, 1895, 1897, 1898, 1899, 1902, 1915, 1918, 1919] | Similarity : 66.66666666666667
+taaattttcttaaatatatatatatatatacttaaatatatatatatatatatatttttt
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : taaatatatatatatatatatatttttttt | Mutations : [1890, 1894, 1895, 1896, 1897, 1898, 1899, 1902, 1917] | Similarity : 70.0
+taaattttcttaaatatatatatatatatataaatatatatatatatatatatttttttt
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1890, 1891, 1894, 1895, 1896, 1897, 1898, 1899, 1902, 1919] | Similarity : 66.66666666666667
+taaattttcttaaatatatatatatatataaatatatatatatatatatattttttttat
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1890, 1891, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1902] | Similarity : 63.333333333333336
+taaattttcttaaatatatatatatatatatatatatatatatatatattttttttatag
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : tatatatatatatatattttttttatagaa | Mutations : [1891, 1892, 1893, 1894, 1896, 1897, 1898, 1899, 1900] | Similarity : 70.0
+taaattttcttaaatatatatatatatatatatatatatatatatattttttttatagaa
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : tatatatatatatattttttttatagaatt | Mutations : [1890, 1892, 1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 70.0
+taaattttcttaaatatatatatatatatatatatatatatatattttttttatagaatt
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : tatatatatatattttttttatagaattat | Mutations : [1890, 1891, 1896, 1898, 1900, 1904, 1906] | Similarity : 76.66666666666667
+taaattttcttaaatatatatatatatatatatatatatatattttttttatagaattat
+> Tir 1 : taaattttcttaaatatatatatatatata | Tir 2 : tatatatatattttttttatagaattatta | Mutations : [1893, 1894, 1895, 1900, 1901, 1904, 1906, 1908] | Similarity : 73.33333333333333
+taaattttcttaaatatatatatatatatatatatatatattttttttatagaattatta
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : attttcttaaatatatatatatatatatat | Mutations : [1892, 1895, 1897, 1898, 1899, 1902, 1911, 1914, 1915, 1916, 1918] | Similarity : 63.333333333333336
+aaattttcttaaatatatatatatatatatattttcttaaatatatatatatatatatat
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : tttcttaaatatatatatatatatatattt | Mutations : [1895, 1897, 1898, 1899, 1902, 1913, 1916, 1917, 1918, 1920] | Similarity : 66.66666666666667
+aaattttcttaaatatatatatatatatattttcttaaatatatatatatatatatattt
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : tcttaaatatatatatatatatatattttt | Mutations : [1894, 1895, 1897, 1898, 1899, 1902, 1915, 1918, 1919, 1920] | Similarity : 66.66666666666667
+aaattttcttaaatatatatatatatatattcttaaatatatatatatatatatattttt
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : ttaaatatatatatatatatatattttttt | Mutations : [1894, 1895, 1896, 1897, 1898, 1899, 1902, 1917, 1920] | Similarity : 70.0
+aaattttcttaaatatatatatatatatatttaaatatatatatatatatatattttttt
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1891, 1894, 1895, 1896, 1897, 1898, 1899, 1902, 1919] | Similarity : 70.0
+aaattttcttaaatatatatatatatatataaatatatatatatatatatatttttttta
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1891, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1902] | Similarity : 66.66666666666667
+aaattttcttaaatatatatatatatatatatatatatatatatatatattttttttata
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : atatatatatatatatattttttttataga | Mutations : [1891, 1892, 1893, 1894, 1896, 1897, 1898, 1899, 1900] | Similarity : 70.0
+aaattttcttaaatatatatatatatatatatatatatatatatatattttttttataga
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : atatatatatatatattttttttatagaat | Mutations : [1892, 1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 73.33333333333333
+aaattttcttaaatatatatatatatatatatatatatatatatattttttttatagaat
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : atatatatatatattttttttatagaatta | Mutations : [1891, 1896, 1898, 1900, 1904, 1906] | Similarity : 80.0
+aaattttcttaaatatatatatatatatatatatatatatatattttttttatagaatta
+> Tir 1 : aaattttcttaaatatatatatatatatat | Tir 2 : atatatatatattttttttatagaattatt | Mutations : [1893, 1894, 1895, 1900, 1901, 1904, 1906, 1908] | Similarity : 73.33333333333333
+aaattttcttaaatatatatatatatatatatatatatatattttttttatagaattatt
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : ttttcttaaatatatatatatatatatatt | Mutations : [1895, 1897, 1898, 1899, 1902, 1913, 1916, 1917, 1918, 1920] | Similarity : 66.66666666666667
+aattttcttaaatatatatatatatatatattttcttaaatatatatatatatatatatt
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : ttcttaaatatatatatatatatatatttt | Mutations : [1894, 1895, 1897, 1898, 1899, 1902, 1915, 1918, 1919, 1920] | Similarity : 66.66666666666667
+aattttcttaaatatatatatatatatatattcttaaatatatatatatatatatatttt
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : cttaaatatatatatatatatatatttttt | Mutations : [1894, 1895, 1896, 1897, 1898, 1899, 1902, 1917, 1920, 1921] | Similarity : 66.66666666666667
+aattttcttaaatatatatatatatatatacttaaatatatatatatatatatatttttt
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : taaatatatatatatatatatatttttttt | Mutations : [1894, 1895, 1896, 1897, 1898, 1899, 1902, 1919] | Similarity : 73.33333333333333
+aattttcttaaatatatatatatatatatataaatatatatatatatatatatttttttt
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1902, 1921] | Similarity : 66.66666666666667
+aattttcttaaatatatatatatatatataaatatatatatatatatatattttttttat
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1892, 1893, 1894, 1896, 1897, 1898, 1899, 1900] | Similarity : 73.33333333333333
+aattttcttaaatatatatatatatatatatatatatatatatatatattttttttatag
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : tatatatatatatatattttttttatagaa | Mutations : [1892, 1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 73.33333333333333
+aattttcttaaatatatatatatatatatatatatatatatatatattttttttatagaa
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : tatatatatatatattttttttatagaatt | Mutations : [1896, 1898, 1900, 1904, 1906] | Similarity : 83.33333333333333
+aattttcttaaatatatatatatatatatatatatatatatatattttttttatagaatt
+> Tir 1 : aattttcttaaatatatatatatatatata | Tir 2 : tttttatagaattattaatttatgatattg | Mutations : [1892, 1894, 1896, 1899, 1905, 1906, 1910, 1911, 1913, 1918, 1920] | Similarity : 63.333333333333336
+aattttcttaaatatatatatatatatatattttttttatagaattattaatttatgatattg
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : tttcttaaatatatatatatatatatattt | Mutations : [1894, 1895, 1897, 1898, 1899, 1902, 1915, 1918, 1919, 1920, 1922] | Similarity : 63.333333333333336
+attttcttaaatatatatatatatatatattttcttaaatatatatatatatatatattt
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : tcttaaatatatatatatatatatattttt | Mutations : [1894, 1895, 1896, 1897, 1898, 1899, 1902, 1917, 1920, 1921, 1922] | Similarity : 63.333333333333336
+attttcttaaatatatatatatatatatattcttaaatatatatatatatatatattttt
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : ttaaatatatatatatatatatattttttt | Mutations : [1894, 1895, 1896, 1897, 1898, 1899, 1902, 1919, 1922] | Similarity : 70.0
+attttcttaaatatatatatatatatatatttaaatatatatatatatatatattttttt
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1902, 1921] | Similarity : 66.66666666666667
+attttcttaaatatatatatatatatatataaatatatatatatatatatatttttttta
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1893, 1894, 1896, 1897, 1898, 1899, 1900] | Similarity : 76.66666666666667
+attttcttaaatatatatatatatatatatatatatatatatatatatattttttttata
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : atatatatatatatatattttttttataga | Mutations : [1893, 1894, 1896, 1898, 1899, 1900, 1904] | Similarity : 76.66666666666667
+attttcttaaatatatatatatatatatatatatatatatatatatattttttttataga
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : atatatatatatatattttttttatagaat | Mutations : [1896, 1898, 1900, 1904, 1906] | Similarity : 83.33333333333333
+attttcttaaatatatatatatatatatatatatatatatatatattttttttatagaat
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : atatatatatatattttttttatagaatta | Mutations : [1893, 1894, 1895, 1900, 1901, 1904, 1906, 1908] | Similarity : 73.33333333333333
+attttcttaaatatatatatatatatatatatatatatatatattttttttatagaatta
+> Tir 1 : attttcttaaatatatatatatatatatat | Tir 2 : ttttttatagaattattaatttatgatatt | Mutations : [1894, 1896, 1899, 1905, 1906, 1910, 1911, 1913, 1918, 1920, 1922] | Similarity : 63.333333333333336
+attttcttaaatatatatatatatatatattttttttatagaattattaatttatgatatt
+> Tir 1 : ttttcttaaatatatatatatatatatatt | Tir 2 : cttaaatatatatatatatatatatttttt | Mutations : [1894, 1895, 1896, 1897, 1898, 1899, 1902, 1919, 1922, 1923] | Similarity : 66.66666666666667
+ttttcttaaatatatatatatatatatattcttaaatatatatatatatatatatttttt
+> Tir 1 : ttttcttaaatatatatatatatatatatt | Tir 2 : taaatatatatatatatatatatttttttt | Mutations : [1894, 1895, 1896, 1897, 1898, 1899, 1900, 1902, 1921, 1923] | Similarity : 66.66666666666667
+ttttcttaaatatatatatatatatatatttaaatatatatatatatatatatttttttt
+> Tir 1 : ttttcttaaatatatatatatatatatatt | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1894, 1896, 1897, 1898, 1899, 1900] | Similarity : 80.0
+ttttcttaaatatatatatatatatatattaatatatatatatatatatattttttttat
+> Tir 1 : ttttcttaaatatatatatatatatatatt | Tir 2 : tatatatatatatatattttttttatagaa | Mutations : [1896, 1898, 1900, 1904, 1906, 1923] | Similarity : 80.0
+ttttcttaaatatatatatatatatatatttatatatatatatatattttttttatagaa
+> Tir 1 : ttttcttaaatatatatatatatatatatt | Tir 2 : tatatatatatatattttttttatagaatt | Mutations : [1894, 1895, 1900, 1901, 1904, 1906, 1908, 1923] | Similarity : 73.33333333333333
+ttttcttaaatatatatatatatatatatttatatatatatatattttttttatagaatt
+> Tir 1 : tttcttaaatatatatatatatatatattt | Tir 2 : tcttaaatatatatatatatatatattttt | Mutations : [1895, 1896, 1897, 1898, 1899, 1902, 1919, 1922, 1923, 1924] | Similarity : 66.66666666666667
+tttcttaaatatatatatatatatatattttcttaaatatatatatatatatatattttt
+> Tir 1 : tttcttaaatatatatatatatatatattt | Tir 2 : ttaaatatatatatatatatatattttttt | Mutations : [1895, 1896, 1897, 1898, 1899, 1900, 1902, 1921, 1923, 1924] | Similarity : 66.66666666666667
+tttcttaaatatatatatatatatatatttttaaatatatatatatatatatattttttt
+> Tir 1 : tttcttaaatatatatatatatatatattt | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1896, 1897, 1898, 1899, 1900] | Similarity : 83.33333333333333
+tttcttaaatatatatatatatatatatttaaatatatatatatatatatatttttttta
+> Tir 1 : tttcttaaatatatatatatatatatattt | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1896, 1898, 1899, 1900, 1904, 1923] | Similarity : 80.0
+tttcttaaatatatatatatatatatatttatatatatatatatatatattttttttata
+> Tir 1 : tttcttaaatatatatatatatatatattt | Tir 2 : atatatatatatatattttttttatagaat | Mutations : [1895, 1900, 1901, 1904, 1906, 1908, 1923] | Similarity : 76.66666666666667
+tttcttaaatatatatatatatatatatttatatatatatatatattttttttatagaat
+> Tir 1 : tttcttaaatatatatatatatatatattt | Tir 2 : atatatatatatattttttttatagaatta | Mutations : [1896, 1897, 1898, 1900, 1901, 1903, 1904, 1906, 1908, 1910, 1923] | Similarity : 63.333333333333336
+tttcttaaatatatatatatatatatatttatatatatatatattttttttatagaatta
+> Tir 1 : ttcttaaatatatatatatatatatatttt | Tir 2 : taaatatatatatatatatatatttttttt | Mutations : [1896, 1897, 1898, 1899, 1900, 1925] | Similarity : 80.0
+ttcttaaatatatatatatatatatatttttaaatatatatatatatatatatttttttt
+> Tir 1 : ttcttaaatatatatatatatatatatttt | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1896, 1898, 1899, 1900, 1904, 1923] | Similarity : 80.0
+ttcttaaatatatatatatatatatattttaatatatatatatatatatattttttttat
+> Tir 1 : ttcttaaatatatatatatatatatatttt | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1896, 1898, 1900, 1904, 1906, 1923, 1925] | Similarity : 76.66666666666667
+ttcttaaatatatatatatatatatatttttatatatatatatatatattttttttatag
+> Tir 1 : tcttaaatatatatatatatatatattttt | Tir 2 : ttaaatatatatatatatatatattttttt | Mutations : [1897, 1898, 1899, 1900, 1925, 1926] | Similarity : 80.0
+tcttaaatatatatatatatatatatttttttaaatatatatatatatatatattttttt
+> Tir 1 : tcttaaatatatatatatatatatattttt | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1898, 1899, 1900, 1904, 1923] | Similarity : 83.33333333333333
+tcttaaatatatatatatatatatatttttaaatatatatatatatatatatttttttta
+> Tir 1 : tcttaaatatatatatatatatatattttt | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1898, 1900, 1904, 1906, 1923, 1925] | Similarity : 80.0
+tcttaaatatatatatatatatatatttttatatatatatatatatatattttttttata
+> Tir 1 : tcttaaatatatatatatatatatattttt | Tir 2 : atatatatatatatatattttttttataga | Mutations : [1900, 1901, 1904, 1906, 1908, 1923, 1925] | Similarity : 76.66666666666667
+tcttaaatatatatatatatatatatttttatatatatatatatatattttttttataga
+> Tir 1 : tcttaaatatatatatatatatatattttt | Tir 2 : atatatatatatatattttttttatagaat | Mutations : [1897, 1898, 1900, 1901, 1903, 1904, 1906, 1908, 1910, 1923, 1925] | Similarity : 63.333333333333336
+tcttaaatatatatatatatatatatttttatatatatatatatattttttttatagaat
+> Tir 1 : cttaaatatatatatatatatatatttttt | Tir 2 : taaatatatatatatatatatatttttttt | Mutations : [1898, 1899, 1900, 1904, 1923, 1927] | Similarity : 80.0
+cttaaatatatatatatatatatatttttttaaatatatatatatatatatatttttttt
+> Tir 1 : cttaaatatatatatatatatatatttttt | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1898, 1900, 1904, 1906, 1923, 1925] | Similarity : 80.0
+cttaaatatatatatatatatatattttttaatatatatatatatatatattttttttat
+> Tir 1 : cttaaatatatatatatatatatatttttt | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1900, 1901, 1904, 1906, 1908, 1923, 1925, 1927] | Similarity : 73.33333333333333
+cttaaatatatatatatatatatatttttttatatatatatatatatattttttttatag
+> Tir 1 : ttaaatatatatatatatatatattttttt | Tir 2 : aaatatatatatatatatatatttttttta | Mutations : [1900, 1904, 1906, 1923, 1925] | Similarity : 83.33333333333333
+ttaaatatatatatatatatatatttttttaaatatatatatatatatatatttttttta
+> Tir 1 : ttaaatatatatatatatatatattttttt | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1900, 1901, 1904, 1906, 1908, 1923, 1925, 1927] | Similarity : 73.33333333333333
+ttaaatatatatatatatatatatttttttatatatatatatatatatattttttttata
+> Tir 1 : ttaaatatatatatatatatatattttttt | Tir 2 : atatatatatatatatattttttttataga | Mutations : [1900, 1901, 1903, 1904, 1906, 1908, 1910, 1923, 1925, 1927] | Similarity : 66.66666666666667
+ttaaatatatatatatatatatatttttttatatatatatatatatattttttttataga
+> Tir 1 : taaatatatatatatatatatatttttttt | Tir 2 : aatatatatatatatatatattttttttat | Mutations : [1900, 1901, 1904, 1906, 1908, 1923, 1925, 1927] | Similarity : 73.33333333333333
+taaatatatatatatatatatattttttttaatatatatatatatatatattttttttat
+> Tir 1 : taaatatatatatatatatatatttttttt | Tir 2 : tatatatatatatatatattttttttatag | Mutations : [1900, 1901, 1903, 1904, 1906, 1908, 1910, 1923, 1925, 1927, 1929] | Similarity : 63.333333333333336
+taaatatatatatatatatatatttttttttatatatatatatatatattttttttatag
+> Tir 1 : aaatatatatatatatatatatttttttta | Tir 2 : atatatatatatatatatattttttttata | Mutations : [1901, 1903, 1904, 1906, 1908, 1910, 1923, 1925, 1927, 1929, 1930] | Similarity : 63.333333333333336
+aaatatatatatatatatatattttttttaatatatatatatatatatattttttttata
+> Tir 1 : atatatatatatatatattttttttataga | Tir 2 : tatatatatatattttttttatagaattat | Mutations : [1908, 1909, 1911, 1916, 1918, 1920, 1922, 1924, 1926, 1928, 1933] | Similarity : 63.333333333333336
+atatatatatatatatattttttttatagatatatatatatattttttttatagaattat
+> Tir 1 : tatatatatatattttttttatagaattat | Tir 2 : atattttttttatagaattattaatttatg | Mutations : [1910, 1914, 1917, 1918, 1922, 1925, 1927, 1929, 1931, 1933, 1936] | Similarity : 63.333333333333336
+tatatatatatattttttttatagaattatatattttttttatagaattattaatttatg
+> Tir 1 : atatatatatattttttttatagaattatt | Tir 2 : tatattttttttatagaattattaatttat | Mutations : [1914, 1917, 1918, 1922, 1925, 1927, 1929, 1931, 1933, 1936, 1940] | Similarity : 63.333333333333336
+atatatatatattttttttatagaattatttatattttttttatagaattattaatttat
