@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/grey"
+                android:orientation="vertical"
+                tools:context=".activities.PiechartActivity">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottomNavigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/bottom_background"
+            android:elevation="2dp"
+            app:itemIconSize="30dp"
+            app:itemIconTint="@drawable/item_selector"
+            app:itemRippleColor="@android:color/transparent"
+            app:labelVisibilityMode="unlabeled"
+            app:menu="@menu/bottom_menu" />
+
+
+    <!--Top Header Layout-->
+
+
+    <LinearLayout
+            android:id="@+id/topbar"
+            android:layout_width="match_parent"
+            android:layout_height="74dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="-3dp"
+            android:background="@color/col1"
+            android:gravity="center_vertical"
+            android:padding="16dp">
+
+
+
+        <ImageView
+                android:id="@+id/returnarrow"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:onClick="returnClick"
+                android:padding="10dp"
+
+                android:src="@drawable/ic_arrow_back_24dp" />
+
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Detect History"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:layout_marginLeft="80dp"
+                android:textStyle="bold"/>
+
+
+    </LinearLayout>
+
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/topbar"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="118dp"
+            android:scrollbars="none">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingRight="20dp">
+
+            <!--Top Profile Section -->
+
+
+            <!--Option Bar-->
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/circularbordersolid"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                <TextView
+                        android:id="@+id/historyinfos"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/proximanovaregular"
+                        android:gravity="center"
+                        android:padding="13dp"
+                        android:text="History"
+                        android:textAllCaps="true"
+                        android:textColor="@color/blue"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                <LinearLayout
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:background="@color/lightgrey" />
+
+
+                <LinearLayout
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:background="@color/lightgrey" />
+            </LinearLayout>
+
+            <!--Bootom Cards with sections-->
+            <LinearLayout
+                    android:id="@+id/personalinfo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/circularbordersolid"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                    <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Predict : "
+                                android:textColor="@color/black"
+                                android:textSize="17sp"
+                                android:textStyle="bold" />
+
+                        <Space
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:id="@+id/activitylinlay"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:orientation="vertical">
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginTop="10dp"
+                                android:gravity="center_vertical"
+                                android:paddingRight="8dp">
+
+                            <org.eazegraph.lib.charts.PieChart
+                                    android:id="@+id/piechart"
+                                    android:layout_width="0dp"
+                                    android:layout_height="150dp"
+                                    android:padding="6dp"
+                                    android:layout_weight="1"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginBottom="15dp"
+
+                            />
+
+
+                        </LinearLayout>
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="1dp"
+                                android:background="@drawable/circularbordersolid"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                            <View
+                                    android:layout_width="15dp"
+                                    android:layout_height="15dp"
+                                    android:id="@+id/histwithouttc1V"
+                                    android:background="@color/tc1"/>
+                            <TextView
+
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:fontFamily="@font/proximanovaregular"
+                                    android:id="@+id/histwithouttc1"
+                                    android:padding="13dp"
+                                    android:text="without/tc1"
+                                    android:textColor="@color/blue"
+                                    android:textSize="14sp"
+                                    android:textStyle="bold" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="1dp"
+                                android:background="@drawable/circularbordersolid"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                            <View
+                                    android:layout_width="15dp"
+                                    android:layout_height="15dp"
+                                    android:id="@+id/histwithbiggyV"
+                                    android:background="@color/biggy"/>
+                            <TextView
+
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:fontFamily="@font/proximanovaregular"
+                                    android:id="@+id/histwithbiggy"
+                                    android:padding="13dp"
+                                    android:text="with/biggy"
+                                    android:textColor="@color/blue"
+                                    android:textSize="14sp"
+                                    android:textStyle="bold" />
+
+
+                        </LinearLayout>
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="1dp"
+                                android:background="@drawable/circularbordersolid"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                            <View
+                                    android:layout_width="15dp"
+                                    android:layout_height="15dp"
+                                    android:id="@+id/histhatV"
+                                    android:background="@color/hat"/>
+                            <TextView
+
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:fontFamily="@font/proximanovaregular"
+                                    android:id="@+id/histhat"
+                                    android:padding="13dp"
+                                    android:text="hAT"
+                                    android:textColor="@color/blue"
+                                    android:textSize="14sp"
+                                    android:textStyle="bold" />
+
+
+                        </LinearLayout>
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="1dp"
+                                android:background="@drawable/circularbordersolid"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                            <View
+                                    android:layout_width="15dp"
+                                    android:layout_height="15dp"
+                                    android:id="@+id/histcastaV"
+                                    android:background="@color/casta"/>
+                            <TextView
+
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:fontFamily="@font/proximanovaregular"
+                                    android:id="@+id/histcasta"
+                                    android:padding="13dp"
+                                    android:text="CASTA"
+                                    android:textColor="@color/blue"
+                                    android:textSize="14sp"
+                                    android:textStyle="bold" />
+
+
+                        </LinearLayout>
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="1dp"
+                                android:background="@drawable/circularbordersolid"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                            <View
+                                    android:layout_width="15dp"
+                                    android:layout_height="15dp"
+                                    android:id="@+id/histmerlinV"
+                                    android:background="@color/merlin"/>
+                            <TextView
+
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:fontFamily="@font/proximanovaregular"
+                                    android:id="@+id/histmerlin"
+                                    android:padding="13dp"
+                                    android:text="Merlin"
+                                    android:textColor="@color/blue"
+                                    android:textSize="14sp"
+                                    android:textStyle="bold" />
+
+
+                        </LinearLayout>
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="1dp"
+                                android:background="@drawable/circularbordersolid"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                            <View
+                                    android:layout_width="15dp"
+                                    android:layout_height="15dp"
+                                    android:id="@+id/histmudrV"
+                                    android:background="@color/mudr"/>
+                            <TextView
+
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:fontFamily="@font/proximanovaregular"
+                                    android:id="@+id/histmudr"
+                                    android:padding="13dp"
+                                    android:text="mudr / mutator"
+                                    android:textColor="@color/blue"
+                                    android:textSize="14sp"
+                                    android:textStyle="bold" />
+
+
+                        </LinearLayout>
+                        <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="1dp"
+                                android:layout_marginBottom="100dp"
+                                android:background="@drawable/circularbordersolid"
+                                android:gravity="center"
+                                android:orientation="horizontal">
+
+                            <View
+                                    android:layout_width="15dp"
+                                    android:layout_height="15dp"
+                                    android:id="@+id/histpV"
+                                    android:background="@color/p"/>
+                            <TextView
+
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="2"
+                                    android:fontFamily="@font/proximanovaregular"
+                                    android:id="@+id/histp"
+                                    android:padding="13dp"
+                                    android:text="P element"
+                                    android:textColor="@color/blue"
+                                    android:textSize="14sp"
+                                    android:textStyle="bold" />
+
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <!--Skills Details-->
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>
