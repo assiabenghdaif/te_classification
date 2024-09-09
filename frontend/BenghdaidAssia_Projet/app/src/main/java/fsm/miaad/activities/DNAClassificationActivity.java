@@ -17,7 +17,7 @@ import androidx.core.content.ContextCompat;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import fsm.miaad.DAO.DBManager;
 import fsm.miaad.R;
-import fsm.miaad.RESTcontrolle.SendDataTask;
+import fsm.miaad.RESTcontrolle.ET_EnT;
 import fsm.miaad.RESTcontrolle.SuperFamilies;
 import fsm.miaad.RESTcontrolle.TIRLocalisation;
 import fsm.miaad.models.FastaEntry;
@@ -350,14 +350,7 @@ public class DNAClassificationActivity extends AppCompatActivity {
         }
     }
 
-    public void getsuperfamily(View v){
-        Intent intent1=new Intent(getApplicationContext(),AdnActivity.class);
-        intent1.putExtra("emailConnect",emailConnect);
-        ArrayList<String> list = new ArrayList<String>();
-        for(String i:sequences) list.add(i);
-        intent1.putStringArrayListExtra("sequences", list);
-        startActivity(intent1);
-    }
+
 
     public void menu(View v){
         // Initializing the popup menu and giving the reference as current context
@@ -402,7 +395,7 @@ public class DNAClassificationActivity extends AppCompatActivity {
             sequence.setText(truncatedSequence+" ...");
             stat.setVisibility(View.VISIBLE);
             stat.setText(".........");
-            SendDataTask sendDataTask = new SendDataTask(this, new SendDataTask.TaskListener() {
+            ET_EnT sendDataTask = new ET_EnT(this, new ET_EnT.TaskListener() {
                 @Override
                 public void onTaskFinished(String seq,List<String> result) {
                     // Ici, result est sequences_pred_proba
